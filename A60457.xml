@@ -1,0 +1,1270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two funeral sermons preached in St. Saviour's Church in Dartmouth Together with a preface, giving some account of the reasons, why they are now made publick. By Humfry Smith, M.A. and vicar there. Licens'd, Feb. 23. 1689/90. Z. Isham.</title>
+            <author>Smith, Humphry, b. 1654 or 5.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60457</idno>
+            <idno type="STC">Wing S4087A</idno>
+            <idno type="STC">ESTC R220069</idno>
+            <idno type="EEBO-CITATION">99831498</idno>
+            <idno type="PROQUEST">99831498</idno>
+            <idno type="VID">35961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2045:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two funeral sermons preached in St. Saviour's Church in Dartmouth Together with a preface, giving some account of the reasons, why they are now made publick. By Humfry Smith, M.A. and vicar there. Licens'd, Feb. 23. 1689/90. Z. Isham.</title>
+                  <author>Smith, Humphry, b. 1654 or 5.</author>
+               </titleStmt>
+               <extent>[12], 63, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Yeo, bookseller in Exon.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXXIX, 6 --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Ecclesiastes IV, 2 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35961:1"/>
+            <pb facs="tcp:35961:1" rendition="simple:additions"/>
+            <p>Two Funeral SERMONS PREACHED IN St. SAVIOUR'S CHURCH IN DARTMOUTH.</p>
+            <p>Together With a PREFACE, giving ſome ac<g ref="char:EOLhyphen"/>count of the reaſons, why they are now made publick.</p>
+            <p>By <hi>HUMFRY SMITH,</hi> M. A. and VICAR there.</p>
+            <p>LICENS'D, <hi>Feb. 23. 1689/90. Z. ISHAM.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charles Yeo,</hi> Bookſeller in <hi>Exon.</hi> 1690.</p>
+            <pb facs="tcp:35961:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35961:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:35961:3"/>
+            <pb facs="tcp:35961:3"/>
+            <head>THE PREFACE, TO THE <hi>Inhabitants of</hi> Dartmouth <hi>in</hi> Devon, <hi>Grace, Truth, and Peace be multiplied.</hi>
+            </head>
+            <opener>
+               <salute>My Friends and Brethren,</salute>
+            </opener>
+            <p>YOU, that know me, and the occaſions of the two following Sermons, will, I doubt not, ea<g ref="char:EOLhyphen"/>ſily believe: that I was far, at firſt, from deſigning, they ſhould ever become more publick, than the Preaching of them made them. As the ſpace, al<g ref="char:EOLhyphen"/>low<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for either can hardly be called Days; ſo I am very ſenſible, that performances of this kind, on which I have beſtow'd more time and labour, have little in them to recommend them in an Age, which (God be praiſed) abounds with Practical Diſcourſes of the greateſt Excellency. They do not therefore come abroad, on a conceit of any thing extraordinary in the Contrivance; but only to ſtand the Charges, which have been drawn up againſt them: That ſome,
+<pb facs="tcp:35961:4"/> who could not, and others, who would not, hear them; may perceive at length, as I hope they will, that amongſt the real imperfections to be found in them, there is, however, nothing at all of a ſpiteful humour.</p>
+            <p>I am ſure, I can truly ſay, that in thoſe few Years I have liv'd amongſt you, I have labour'd, as to give no juſt offence to the Church eſtabliſh'd (of the Law<g ref="char:EOLhyphen"/>fulneſs of whoſe Conſtitutions I am heartily perſwaded.) ſo neither to any of thoſe who have been drawn to diſlike her Communion, and ſeparate from her. I do not remember, that the Regard I have, and the par<g ref="char:EOLhyphen"/>ticular Obligations I am under to the former, have made me forgetful of a befitting Candour towards the latter: eſpecially in the publick diſcharge of that Ho<g ref="char:EOLhyphen"/>ly Off<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, I am regularly call'd to. But, alas, you ve<g ref="char:EOLhyphen"/>ry well know, the cry hath been frequently otherwiſe: ſuch repreſentations having been made of me, as if I were guilty of malicious Reflections; and did not on<g ref="char:EOLhyphen"/>ly, with thoſe the Apoſtle ſpeaks of, <hi>preach Chriſt</hi> 
+               <note place="margin">Phil. 1. 15.</note> 
+               <hi>of envy and ſtrife,</hi> but preach even Strife and En<g ref="char:EOLhyphen"/>vy themſelves.</p>
+            <p>The diſcourſes, which have been ſingled out as the chief Foundation of ſuch Reports, are theſe two now printed: which I put into your Hands, without any ma<g ref="char:EOLhyphen"/>terial
+<pb facs="tcp:35961:4"/> alteration from what they were in the Pulpit. Indeed ſome things, which were then omitted, I have here added; but whatever was ſpoken, you have, as near as may be, as it was ſpoken: and in thoſe paſ<g ref="char:EOLhyphen"/>ſages, which, I am told, have given occaſion of of<g ref="char:EOLhyphen"/>fence, I am ſecure, I think, of exactneſs, even to the leaſt word.</p>
+            <p>And now let me beſeech thoſe, who have been pleas'd to cenſure me, to conſider: whether the things are ſo faulty, as they have repreſented them? Or ra<g ref="char:EOLhyphen"/>ther, whether they did not ſeek for cauſe of diſpleaſure, where none was given? whether ſome have not thought fit to make reports, not ſo much of what they heard, as of what they expected; and others ſupplied the de<g ref="char:EOLhyphen"/>fect of Intelligence by a fruitful imagination?</p>
+            <p>The firſt of theſe Sermons was preach'd <hi>Octob.</hi> 24. 1687. at the Funeral of an aged Gentleman, to whom I was obliged for much civility: and whom, by reaſon of his coming ſometimes to the Publick Worſhip (his abſence at other times being eaſily accounted for, from much ſickneſs and infirmity) I thought no <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onconfor<g ref="char:EOLhyphen"/>miſt to the Orders of the Church of <hi>England.</hi> In<g ref="char:EOLhyphen"/>deed a little after his Death, I was inform'd that the Preacher in a ſeparate Congregation had put in a
+<pb facs="tcp:35961:5"/> claim to him, and withal, that at the ſame time he was pleas'd, at leaſt plainly to inſi<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>te, that this diſ<g ref="char:EOLhyphen"/>courſe of mine (preach'd but two or three days before) was envious and reflecting.</p>
+            <p>The Crimes which ſoon after I was commonly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<g ref="char:EOLhyphen"/>ſur'd for, not only in this, but ſeveral other places, you may remember, were principally theſe two: <hi>Re<g ref="char:EOLhyphen"/>flection on the Perſon interr'd, in what I ſaid about Riches, in the middle of my Sermon: and a ſpi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eful Character of him, at the latter end of it.</hi>
+            </p>
+            <p>From both theſe faults, I hope, the diſcourſe it ſelf will now ſufficiently purge me: For as to the firſt, can it be with the leaſt ſhew of reaſon concluded, that what was ſaid of the <hi>Worldling</hi> (in compliance with a ſubject which the Church her ſelf hath recommended on ſuch occaſions) ſhould be meane by me as a de<g ref="char:EOLhyphen"/>ſcription of the deceaſed? I ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke likewiſe of <hi>the Vo<g ref="char:EOLhyphen"/>luptuous, the Ambitious, the Learned,</hi> &amp;c. And why ſhould it be thought I aim'd at him in one, more than in any of the other? Yea, is it poſſible for any reaſonable Perſon to think, that when I conſider'd the va<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity of Riches, and an immoderate love of them; I deſign'd to brand him for a M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, whom, in the
+<pb facs="tcp:35961:5"/> very ſame Diſcourſe, I expreſly commended, for a <hi>Juſt,</hi> an <hi>Upright,</hi> and a very <hi>Charitable Conver<g ref="char:EOLhyphen"/>ſation?</hi>
+            </p>
+            <p>This account of him was a part, you will find, of that other thing I am cenſured for, <hi>The Character</hi> at the latter end, which (being too ſenſible of the in<g ref="char:EOLhyphen"/>convenience, and ſometimes miſchief of Rhetorical Ha<g ref="char:EOLhyphen"/>rangues in ſuch caſes) according to my cuſtom, I did not intend ſhould be long; or contain any thing in it, which had not the ſupport of manifeſt truth. But as it is, I dare de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie my verieſt Enemies to ſhew any thing in it, in the leaſt meaſure reflecting: For my part I think it might have been appli'd, without offence, to any Man that ever was, at leaſt, beneath the Emi<g ref="char:EOLhyphen"/>nence of a Martyr, or an Apoſtle.</p>
+            <p>I declar'd that on his death bed <hi>he was frequent in the acts of a Duty, which as it is extremely unſafe to begin on it, it is neither ſafe to give over on it, Repentance:</hi> at which paſſage ſome, I know, have been diſpleas'd. As if a penitent frame were not proper, at ſuch a time as that is: or it were a reproach to the memory of a Chriſtian, to ſay, he waited for the coming of his Lord, with an humble ſenſe of his own unworthineſs. I know not what
+<pb facs="tcp:35961:6"/> Rules may be given by ſome, for conducting the De<g ref="char:EOLhyphen"/>votions of a death-bed; but ſure I am, that very ex<g ref="char:EOLhyphen"/>cellent directors, adviſe Repentance at that ſeaſon, even to Perſons of the higheſt attainments, as a Duty ſtill agreeable: Repentance for ſins which have been com<g ref="char:EOLhyphen"/>mitted through error and inadvertency; for ſins which are the conſtant attendants of Mortality; as alſo for thoſe which were long before conſider'd and lamented. St. <hi>Auguſtine</hi> was a Perſon, (who, for above Twen<g ref="char:EOLhyphen"/>ty years before his death, ſhone as one of the brighteſt Stars in the Chriſtian Church; and his Scholar and dear Friend that wrote his Life, did not ſurely deſign to leſſen his Praiſe, in the place where he tell us; That <note place="margin">Poſſidius de vitâ <hi>Auguſt.</hi> c. 31.</note> the Good man more than a week before his departure, would not have his Eyes or Thoughts diverted from <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Penitential Pſalms, but only now and then, when his Phyſicians came to viſit him, or his Friends to bring him Refreſhment: That <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e read them as they were plac'd by his order on the Wall near his Bed; that he meditated continually upon them, pray'd, and often wept, and ſo dyed.</p>
+            <p>But I adviſed my hearers at laſt to avoid the <hi>fail<g ref="char:EOLhyphen"/>ings and defects</hi> of him I interr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, as well as to imi<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e thoſe things in him that <hi>were virtuous and holy;</hi> and this was another ground of Offence. Such advice,
+<pb facs="tcp:35961:6"/> it is true, I then gave, as I have on ſuch occaſions ſe<g ref="char:EOLhyphen"/>veral times before and ſince. For is not what, you will find, I added, a very great truth, viz. That <hi>the beſt of us are infirm and fallible?</hi> And does not St. <hi>John</hi> tell us plainly, if we make any different Pretences, <hi>we deceive our ſelves, and the truth is</hi> 
+               <note place="margin">1 John. 1. 8.</note> 
+               <hi>not in us?</hi> It is the peculiar Glory of the Holy Je<g ref="char:EOLhyphen"/>ſus, to have given a Pattern to the World free from all blemiſh and imperfection: wherefore when one of the greateſt of his Servants recommended the <hi>following</hi> 
+               <note place="margin">1 Cor. 11. 1.</note> 
+               <hi>of himſelf,</hi> he limited the Counſel to thoſe Inſtances on<g ref="char:EOLhyphen"/>ly, wherein <hi>he followed Chriſt.</hi>
+            </p>
+            <p>Having met with ſuch uſage on the ſcore of this harmleſs Diſcourſe: The regard that I had for my own injur'd Reputation drew from me three Letters to him, who, as I had reaſon to believe, gave ſome occaſion to theſe Reports. But though I could get only ſome doubt<g ref="char:EOLhyphen"/>ful Anſwers to the two firſt, and none at all to the laſt; I ſhould not have attempted this publick Juſtification of my own Innocence, had I not found it call<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in que<g ref="char:EOLhyphen"/>ſtion again, becauſe of <hi>the Second Sermon</hi> here printed.</p>
+            <p>This was preached on <hi>Nov. 21, 1689.</hi> at the Funeral of a Perſon, whom I look<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon as honeſt and
+<pb facs="tcp:35961:7"/> peaceable; one who ſeveral times expreſs'd much Friend<g ref="char:EOLhyphen"/>ſhip towards me, and to whom, as I am not conſetous to my ſelf, that I ever offer'd any injury whilſt alive; ſo I am ſure I intended none being dead.</p>
+            <p>But it was not long after his burial, that I was ſurpriſed with the news of no ſmall clamour about this <hi>Sermon</hi> alſo, being told, that ſeveral had declared them<g ref="char:EOLhyphen"/>ſelves offended at it, that at leaſt ſome Paſſages of it had been put in writing, ſent away as far as <hi>London,</hi> and there ſpoken againſt with much wrath and violence.</p>
+            <p>You, that will be pleas'd calmly to read it over, will, I believe, find it ſome difficulty to diſcover, where the Grievance lyes. And indeed the charge againſt it, though very heavy, hath been ſo ſparing of Particulars: that I hardly know which are the Places I am to vindicate.</p>
+            <p>Beſides the Text (which hath been diſlik'd, but for which, I hope, you do not expect, I ſhould go about to make an Apology) the only thing inſiſted on, that I can hear of, hath been a few words in the Concluſion: Words, which are thought to bear hard, if not on the Perſon gone down into the Grave; yet on ſome he hath left behind him. To clear my ſelf fully from this Ac<g ref="char:EOLhyphen"/>cuſation, would be to mention ſome late Tranſactions,
+<pb facs="tcp:35961:7"/> which have already made a noiſe not only in this Place, but in ſome ſort through the Nation. I ſhall there<g ref="char:EOLhyphen"/>fore attempt it no further than by this Appeal, which I make to every reaſonable and intelligent Perſon, ac<g ref="char:EOLhyphen"/>quainted with our Circumſtances, of what Perſwaſion ſo<g ref="char:EOLhyphen"/>ever, <hi>viz.</hi> Whether the things I ſpake were not plain and notorious Truth? and whether they were not ſuch Truth, as was fit to be ſpoken by me on the occaſion I then had for it?</p>
+            <p>Theſe things, Brethren, are what I thought proper to ſay to you by way of Introduction to the enſuing Diſcourſes: which, being thus drawn into the World, may they be in ſome degree or other uſeful to all that read them: May they contribute ſomething towards an Holy neglect of <hi>the preſent things,</hi> and a due pro<g ref="char:EOLhyphen"/>viſion and regard for <hi>thoſe that are to come;</hi> The great ends, for which both of them were ſincerely de<g ref="char:EOLhyphen"/>ſign'd, and to which it is now heartily pray'd, they may be ſucceſsful, by</p>
+            <closer>
+               <signed>Yours in all the Offices of Chriſtian Love and Duty, H. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb facs="tcp:35961:8"/>
+            <pb n="1" facs="tcp:35961:8"/>
+            <head>The Firſt SERMON.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSALM 39. 6.</bibl>
+                  <p>Surely every man walketh in a vain ſhew.—</p>
+               </q>
+            </epigraph>
+            <p>ADverſity is one of the beſt Inſtructers, Wiſdom being not ſo eaſily learnt in any other School, as in that of Af<g ref="char:EOLhyphen"/>fliction.</p>
+            <p>Proſperity, like ſome over-ſtrong Light, dazles the Eyes, that they can take in but imperfect and confusd notices of things: but Calamity ſets all right again, as it prepares the Mind for a due Eſtimate or Judgment; ſo it removes all the falſe Colours which are apt to cozen us.</p>
+            <p>
+               <hi>David,</hi> according to the Opinion of ſeveral <note place="margin">Vide Theo<g ref="char:EOLhyphen"/>doret. Oper. tom. 1. p. 544</note> Commentators, labour'd under ſome extraor<g ref="char:EOLhyphen"/>dinary
+<pb n="2" facs="tcp:35961:9"/> preſſure; as when the foregoing, ſo when this <hi>Pſalm</hi> was penn'd. And hereupon we have him mounted up a degree higher than ordina<g ref="char:EOLhyphen"/>ry above Earthly things, freed from the falſe Notions and Opinions of the World, ſtript of all the prejudices of ſenſuality, and paſſing a right judgment on this mortal life. <hi>Verily,</hi> ſays he, in the foregoing Verſe, <hi>every man at his beſt ſtate is altogether vanity:</hi> and his words in my Text ſeem to be yet more comprehenſive. <hi>Surely every man walketh in a vain ſhew.</hi>
+            </p>
+            <p>Not to ſay any thing of a different reading <note place="margin">
+                  <hi>In imagine Dei</hi>—Ita le<g ref="char:EOLhyphen"/>gêrunt S. Am<g ref="char:EOLhyphen"/>broſius, S. Hie<g ref="char:EOLhyphen"/>ronymus, &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lii non pauci.</note> made uſe of by ſome of the Ancients, the words, as here render'd agreeably to the mani<g ref="char:EOLhyphen"/>feſt deſign of the <hi>Pſalmiſt</hi> in this place, give us an account of humane life, the condition of Mankind in this preſent World. Short indeed the Sentence is, but very expreſſive, as you will ſoon perceive by viewing a little the ſeveral par<g ref="char:EOLhyphen"/>ticulars we find in it: Namely theſe four,</p>
+            <list>
+               <item>1. The Perſons concern'd.</item>
+               <item>2. Their Buſineſs, or conſtant Employment.</item>
+               <item>3. The Scene of their Travel.</item>
+               <item>4. The Aſſurance with which the <hi>Pſalmiſt</hi> thus repreſents them.</item>
+            </list>
+            <pb n="3" facs="tcp:35961:9"/>
+            <p>
+               <hi>Firſt,</hi> We find in the Words, the Perſons con<g ref="char:EOLhyphen"/>cern'd in this Sentence of <hi>David: Every man:</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sept. v. 5.</note> every one that lives and breathes. All the whole Race of whatſoever Sex, or Age, or Con<g ref="char:EOLhyphen"/>dition. There is not the leaſt exception, either of the higheſt, or elſe the loweſt. All are con<g ref="char:EOLhyphen"/>cluded, from him that's clothed in Purple, to him that's cover'd with Rags: from the Prince on the Throne, to the Slave that grindeth at the Mill.</p>
+            <p>
+               <hi>Secondly,</hi> Their Buſineſs, or Employment: <hi>They walk.</hi> They are conſtantly going onward; they are in perpetual motion, always Travellers whilſt on Earth. The journying they are en<g ref="char:EOLhyphen"/>gag'd in, towards their long home, is not to be interrupted by an hours ſtay, or ſo much as one minutes reſt.</p>
+            <p>
+               <hi>Thirdly,</hi> We have the Scene of this travel or motion, a Scene proportion'd to the thing that moves in it: <hi>A vain ſhew.</hi> About the meaning of which word there is ſome difference amongſt Expoſitors.</p>
+            <p>Some there are, who take it for <hi>a Shadow;</hi> and with theſe agrees that Tranſlation our Church makes uſe of in the office of Burial. <hi>For man walketh in a vain ſhadow.</hi> A Shadow which is a
+<pb n="4" facs="tcp:35961:10"/> thing gloomy, but yet empty, having nothing more in it, but only to cover us with darkneſs. Man, whilſt here below, is in a Region of ob<g ref="char:EOLhyphen"/>ſcurity, <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ona, R. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; Da<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> per <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> exp. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enebris</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulat. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cl. Ca<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Lexic. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>taglot. in <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> wanders in a dark uncertainty, a place infected with the miſts of Ignorance and Error. He cannot look into the nature and events of things: he ſtumbles up and down without any knowledge of his way, unleſs guided and directed by an extraordinary Light ſent down from above.</p>
+            <p>By others the word is thought to ſignifie <hi>an</hi> 
+               <note place="margin"> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>Image,</hi> accordingly that rendring is added in the Margins of ſome Bibles: <hi>Verily every man walk<g ref="char:EOLhyphen"/>eth in an image.</hi> He goes on in a life which ſeems <note place="margin"> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>doret. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cum.</note> indeed to be ſomething to him; but he is cheated all the while: ſuch degrees of death are blended with it, that it may juſtly be called only a Picture or faint reſemblance of Life. And then he con<g ref="char:EOLhyphen"/>verſes with things that ſeem to be very ſhining, but yet they are a kind of Phantômes, like the Colours of the Rainbow, which are only the Image of the Sun broken, and return'd back by the drops of a Cloud; or like that repreſenta<g ref="char:EOLhyphen"/>tion of our ſelves appearing in the Glaſs; which, however delighted in, is nothing elſe but empti<g ref="char:EOLhyphen"/>neſs.</p>
+            <pb n="5" facs="tcp:35961:10"/>
+            <p>Another variety is to be found amongſt In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erpreters (occaſion'd by a different reading) <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot unfit perhaps to be mentioned. For as ſome <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead, <hi>Man walketh in a vain ſhew,</hi> ſo others have it, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a vain ſhew:</hi> according to the uſage of Scri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture in ſome places, applying this Shadow not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Scene of his motion, but to the Man <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf. Man paſſeth on as a Shadow, <hi>as a ſha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow</hi> 
+               <note place="margin">
+                  <hi>Pſalm 102. 11. Job.</hi> 14. 2.</note> 
+               <hi>that declineth</hi> or <hi>fleeth away.</hi> Or, underſtand<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the word to ſignifie <hi>an Image,</hi> it agrees to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im alſo, to wit, a thing that (according to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſeems the meaning of an Ancient Writer <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Apollinar. Metaphraſ.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n this place) is acted, for the moſt part, like <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Figures in a Pageant, which look as tho' <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey mov'd and ſpake: whereas the whole is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue to the Skill and Management of an inviſible <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtiſt. But,</p>
+            <p>
+               <hi>Fourthly,</hi> and laſtly, We have in the words the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onfirmation of this Sentence of <hi>David, Surely.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e declares it with great aſſurance, having doubt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs conſider'd the reaſons which ſupport it, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en it ratified by much experience. 'Tis the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſult of a very diligent Enquiry, and exact <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bſervation.</p>
+            <p>The things we find in the Text being thus <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>articularly noted, the ſumm of what it aims at <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppears to be this, <hi>That this mortal life is a very
+<pb n="6" facs="tcp:35961:11"/> empty thing: That our condition here in this preſent World is great vanity.</hi> This Truth, with the Di<g ref="char:EOLhyphen"/>vine aſſiſtance, I ſhall briefly illuſtrate, and ſo go on to the uſes of it.</p>
+            <p>Whatever Opinions, my Brethren, we are ap<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to take up about our preſent abode, it will cer<g ref="char:EOLhyphen"/>tainly be found, upon a due examination, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Condition very unſatisfactory, void of every thing, that is a ſolid Foundation of Happineſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Contentment. The greateſt Pleaſures of i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are but Deluſion: the greateſt Advantages bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shew and Appearance.</p>
+            <p>You are to obſerve however, that this is a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſerted concerning humane life as humane, ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtracted from thoſe Spiritual things, which giv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it ſomething of Being; without the Improve<g ref="char:EOLhyphen"/>ments of Grace, which add ſome ſolidity eve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the moſt fleeting things, and bring in ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imperfect Felicity, where was nothing elſe bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miſery.</p>
+            <p>
+               <hi>Origen,</hi> 'tis true, in one of his Homilies o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Orig. Hom. 1. in <hi>Pſ.</hi> 38.</note> this <hi>Pſalm,</hi> makes no doubt of applying th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sentence of the Royal Prophet, even in ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſort, to things Spiritual. That is, as com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>paring their preſent imperfection with what promis'd, and ſhall be reveal'd. <q>If <hi>Moſes</hi> hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſelf, ſays he, were alive again, he would kno<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:35961:11"/> in part, and propheſie in part; he would ſee but darkly through a Glaſs, and teach us Fi<g ref="char:EOLhyphen"/>gures: ſo that tho' he muſt be ſaid to live, it would be only a life of vanity. And would you know the reaſon, continues he, why we ought to call it Vanity? It is, becauſe ſuch things are to have an end: For when that which is Perfect is come, then that which is in <note place="margin">1 <hi>Cor.</hi> 13. 10.</note> part ſhall be done away.</q>
+            </p>
+            <p>Indeed it muſt be granted, that this preſent <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife, tho' it may yield ſome <hi>real Happineſs</hi> to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, that ſeek it in the ways of God, cannot yet afford a <hi>perfect Happineſs.</hi> Something of ſubſtantial good ſuch Perſons will be able to find, very low however in the degree, and ha<g ref="char:EOLhyphen"/>ving in its compoſition a large portion of dif<g ref="char:EOLhyphen"/>ferent things to leſſen or allay it. But then as this mortal life is divided from the conſiderati<g ref="char:EOLhyphen"/>ons of Religion, as it commonly pretends high<g ref="char:EOLhyphen"/>eſt, and is ſo apt to draw the Eyes and the Hearts of Mankind, it is nothing at all, but an empty and deluding appearance. To it in this ſenſe (the ſenſe I ſhall only conſider it in) the Verdict of <hi>David</hi> is univerſally applicable: 'tis vain without reſerve or exception. Declarations of this kind are frequently to be met with in Holy Writ. As St. <hi>Paul</hi> endeavour'd to take off
+<pb n="8" facs="tcp:35961:12"/> the <hi>Corinthians</hi> from too great a concern fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worldly things, he added this reaſon of his ad<g ref="char:EOLhyphen"/>vice: <hi>for the faſhion of this world paſſeth away.</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 7. 31.</note> The Faſhion of this World, ſaith the Apoſtle, making uſe of an expreſſion borrowed (as ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> learned Men have obſerv'd) from the Theatre; to the Scenes of which he compares the ſeveral ſtates or changes of our life. Things that may pleaſe, ſurprize or amaze, according to the dif<g ref="char:EOLhyphen"/>ferent Deſigns of the Contriver: but in the mean time are only ſhew or repreſentation.</p>
+            <p>
+               <hi>The things which are ſeen,</hi> ſaith the ſame Apo<g ref="char:EOLhyphen"/>ſtle to the ſame People, <hi>are temporal.</hi> They are meaſured by Time, and partake of the Affections or Properties of it: and <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Haec S Ba<g ref="char:EOLhyphen"/>ſil &amp; plura ejuſmodi homi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. in Hexaemeron. vol 1. Oper. Baſ p. 7. Edit. Pariſ. 1618.</note> that is ſuch a thing as you cannot graſp or diſcern the leaſt ſubſtance in. That part of it which is gone is al<g ref="char:EOLhyphen"/>ready become nothing, that part which is to come is as yet nothing; and the preſent Minute, ere you perceive it to be, va<g ref="char:EOLhyphen"/>niſheth away. Of this nature is Time and of the ſame are all Temporary things: They are ei<g ref="char:EOLhyphen"/>ther growing or elſe periſhing, having nothing at all in them which may be depended upon as ſtable and certain.</p>
+            <pb n="9" facs="tcp:35961:12"/>
+            <p>We need inſtance in no other places of Scri<g ref="char:EOLhyphen"/>pture, but that which purpoſely treats of this argument, <hi>the Book of Eccleſiaſtes. Solomon,</hi> the Author of it, was the Perſon who made the moſt diligent ſearch into the things of this life; he proved them by very curious, too curious, ex<g ref="char:EOLhyphen"/>periment: <hi>He ſaw all the works that are done un<g ref="char:EOLhyphen"/>der</hi> 
+               <note place="margin">
+                  <hi>Eccl.</hi> 1. 13, 14.</note> 
+               <hi>the Sun, he gave his heart to know wiſdom; yea, to know madneſs and folly. Solomon</hi> alſo was the Per<g ref="char:EOLhyphen"/>ſon <note place="margin">
+                  <hi>Eccl.</hi> 2. 3.</note> in the World; who could beſt judge of the things of this life, being endued with Wiſdom beyond all that came before him, or that ſhould <note place="margin">2 <hi>Chron.</hi> 1. 12.</note> come after him. And now what ſays he? ha<g ref="char:EOLhyphen"/>ving made a large induction of the ſeverals that may pretend to worth, he declares the Sen<g ref="char:EOLhyphen"/>tence: <hi>Vanity of vanities, ſaith the Preacher, all is</hi> 
+               <note place="margin">
+                  <hi>Eccl.</hi> 12. 8.</note> 
+               <hi>vanity.</hi>
+            </p>
+            <p>And as ſuch Notions of humane life have been entertain'd by wife Men within the Church: ſo they have been likewiſe by ſome without it. <hi>Thou haſt tried,</hi> ſaith the Emperour <hi>Marcus An<g ref="char:EOLhyphen"/>toni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> to himſelf, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> haſt tried to <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d Felicity in the things of this World, having wandred through ſo</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. M. An<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p. de ſeipſo, &amp; ad ſeipſum,</note> 
+               <hi>great a part of them: but what <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſought for,
+<pb n="10" facs="tcp:35961:13"/> thou haſt not found: not in the arts of Reaſoning or Diſcourſe, not in Riches, not in Glory, not in Plea<g ref="char:EOLhyphen"/>ſure, not any where.</hi> This was the judgment of a Prince inferior to <hi>Solomon</hi> indeed in Wiſdom; but, as a learned Man hath noted, exceeding him <note place="margin">M. Caſaubon <hi>in his Preface to his Engliſh Verſion of that Empero<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'s Meditations.</hi>
+               </note> much in Wealth and Greatneſs. He, who was Lord of more Kingdoms, than that King of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> was of great Towns, declares, That he could not diſcover in them all <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the means or ingredients of living Happily.</p>
+            <p>Many of the wiſer Heathens had ſuch low Sentiments of theſe tranſitory things, that they would not ſo much as allow them to be called <hi>Beings,</hi> aſcribing that name to the Divine Eſ<g ref="char:EOLhyphen"/>ſence alone. Hence the diſtinction of <hi>Plato,</hi> of <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat. Tim. p. 526. Edit. Lugdun. 1590.</note> 
+               <hi>That which is, but is not generated: and that which is generated, but is not.</hi> The God infinitely ex<g ref="char:EOLhyphen"/>iſting of and from himſelf deſerves the name of <hi>Being;</hi> but the corruptible things, we converſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with, are too empty and vain to claim tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Title.</p>
+            <p>This it is probable enough he took from tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inſcription in an <hi>Egyptian</hi> Temple, giving ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> account of the nature of the Divinity ſuppoſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—Plutarch. de Iſide &amp; Oſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide Oper. Tom. 2. p. 394. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 16<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note>
+               <pb n="11" facs="tcp:35961:13"/> to dwell in it: <hi>I am all that was, is, or ſhall be;</hi> which is ſo like that in <hi>Exod.</hi> 3. 14. that we can hardly doubt of its Original. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſay the <hi>Septuagint, I am that I am.</hi>
+            </p>
+            <p>For a more diſtinct view of the vanity of this preſent Life, it will be convenient a little to con<g ref="char:EOLhyphen"/>ſider theſe three things:</p>
+            <list>
+               <item>The Enjoyments of it.</item>
+               <item>The Deſigns of it.</item>
+               <item>The Continuance of it.</item>
+            </list>
+            <p n="1">1. <hi>The Enjoyments</hi> of it: <hi>The things in the World,</hi> as the Apoſtle calls them, that is, ſuch as <note place="margin">1 <hi>Joh.</hi> 2. 15.</note> are held to be valuable in it, and are commonly the Objects of Deſire. And now, certainly, a little Enquiry into the Nature of them, a few ſerious Reflections on the Experience we have already had of them, will abundantly diſcover their Emptineſs.</p>
+            <p>A Chriſtian Writer long ſince compar'd them all to <hi>a Dream,</hi> wherein the Mind is ſometimes employ'd indeed about things, which are very taking; but then the Morn<g ref="char:EOLhyphen"/>ing <note place="margin">Aurum, voluptas, gaudium, Opes, honores, proſpera, Quaecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> nosinſtant mala, Fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ma<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e, Nil ſunt omnia, <hi>Pruden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Cathem.</hi> Hymn. 1.</note> comes on, the delightful ſlum<g ref="char:EOLhyphen"/>ber paſſeth away, and preſently we
+<pb n="12" facs="tcp:35961:14"/> perceive all the Being they had was only in the imagination.</p>
+            <p>St. <hi>John</hi> gives us a ſhort Catalogue of the moſt conſiderable Enjoyments, which this World can boaſt of: namely: <hi>The luſt of the fleſh, the</hi> 
+               <note place="margin">1 <hi>John</hi> 2. 16.</note> 
+               <hi>luſt of the eyes, and the pride of life;</hi> that is, Plea<g ref="char:EOLhyphen"/>ſure, and Profit, and Honour. Theſe <hi>are all,</hi> ſaith he, <hi>which are in the world:</hi> And can theſe, any, or all of theſe contrive an Happineſs, or purchaſe for us any real Contentment? Should you make a trial of all the Pleaſures that are under the Sun (thoſe Pleaſures which chain the Senſes, and bring a kind of Enchantment upon the Mind) and then review them a little after cooly and deliberately: you would certainly find, they were not at all anſwerable to the expectation was rais'd of them. Yea the ſhew, they make at a diſtance, begins to vaniſh common<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y as ſoon as you come near them: and when you think to take hold of them, like ſome phantaſti<g ref="char:EOLhyphen"/>cal appearances, they paſs away between your Fingers.</p>
+            <p>
+               <hi>I ſaid in my heart, Go to now, I will prove thee</hi> 
+               <note place="margin">
+                  <hi>Eccl.</hi> 2. 1, 2.</note> 
+               <hi>with mirth, therefore enjoy pleaſure;</hi> ſays <hi>Solomon.</hi> Thus he ſets out with a ſtrong reſolution to be Happy; but ſee, alas! the wretched diſappoint<g ref="char:EOLhyphen"/>ment in the very next words: <hi>Behold this alſo is
+<pb n="13" facs="tcp:35961:14"/> vanity. I ſaid of laughte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, it is mad; and of m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth, what doth it?</hi>
+            </p>
+            <p>If there <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any reliſh in the Delights of ſen<g ref="char:EOLhyphen"/>ſuality, it is by a kind of violence to our ſelves, that we are capable of it. How many degrees down muſt a Reaſonable and Immortal Spirit be ſunk, before it can begin to perceive any taſte in them? Its nobler Faculties muſt be all bound <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and laid aſleep: it muſt become an un<g ref="char:EOLhyphen"/>thinking inconſiderate thing, like the Soul of a Beaſt. And whenſoever it recovers its own Li<g ref="char:EOLhyphen"/>berty, and the uſe of its proper Powers: How doth the joy<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turn preſently into bitterneſs? It <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orments i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf with Anguiſh, Indignation, and Re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſe: The pleaſure ends in loathing and de<g ref="char:EOLhyphen"/>teſtation.</p>
+            <p>Theſe a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Enjoyments of <hi>the voluptuous;</hi> and no greater ſure are thoſe of <hi>the worldling.</hi> Fol<g ref="char:EOLhyphen"/>low him to his Treaſure, and there ſee him with a mighty diligence endeavouring to ſecure a ſort of things ſo tranſitory, that they even <hi>make to themſelves wings, and fly away:</hi> a ſort <hi>of things,</hi> 
+               <note place="margin">Prov. 23. 5.</note> 
+               <hi>which moth and ruſt corrupt, and thieves break through</hi> 
+               <note place="margin">Mat 6. 19.</note> 
+               <hi>and ſteal.</hi> See him there, laying up his heaps of Cares, making to himſelf a Thorny Pillow, which will diſturb his reſt, and interrupt his ſleep. Yea behold him there, admiring and even adoring
+<pb n="14" facs="tcp:35961:15"/> what will not afford him in a day of diſtreſs a minute of Eaſe, or a drop of Refreſhment. That darling of his Soul his Gold, notwithſtanding the value he puts on it, is only a little ſhining Earth; and notwithſtanding it pretends to a kind of E<g ref="char:EOLhyphen"/>ternity, is yet a thing that periſheth. <hi>The Gold that periſheth,</hi> ſaith the Apoſtle, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Pet.</hi> 1. 7.</p>
+            <p>As for greatneſs and honour, they who have had the largeſt ſhare of them, have ſufficiently ſhewn that they were far from being contented. Some further thing hath been ſtill in their Thoughts and their Wiſhes to render them un<g ref="char:EOLhyphen"/>quiet. He, that, from being the King of a little Country, carried his Dominion over the greateſt part of the then known World, could not yet find enough to ſatisfie his thirſt of Glory. And now the Reaſon of this is evident: for the things, which Ambition purſues, being indeed without ſubſtance; the mind, that is infected with it, meeting with diſappointment in every purchace, is forced to ſeek relief from ſome new hope or imagination.</p>
+            <p>What is there in Grandeur or Eminence, to re<g ref="char:EOLhyphen"/>pay the labour and difficulties with which it was obtain'd? What is there to ſweeten the hurry, and noiſe, and ſlavery, it unavoidably engageth in? What is there to ballance all the danger and
+<pb n="15" facs="tcp:35961:15"/> fatal iſſues of it? What is there, I ſay, to do all theſe things; but only a little popular Air, an in<g ref="char:EOLhyphen"/>ſignificant Title, the wonder of the Croud, things light and empty as the breath of Fools?</p>
+            <p>
+               <hi>Having food and raiment,</hi> ſaith St. <hi>Paul, let us be</hi> 
+               <note place="margin">1 Tim. 6. 8.</note> 
+               <hi>therewith content:</hi> And the advice hath this ſtrong Reaſon to back it, <hi>viz.</hi> That in having theſe two things, we have all that is really uſeful. A little Food you may have, a corruptible thing: So our Saviour calls it in that Command of his, <hi>Labour</hi> 
+               <note place="margin">Joh. 6. 27.</note> 
+               <hi>not for the meat that periſheth.</hi> A little Raiment you may have too; but ſuch, as when Art hath done all it can do for it, is outdone by the Lil<g ref="char:EOLhyphen"/>lies of the Field: So our Saviour tells us in that Declaration of his, <hi>I ſay unto you, that Solomon</hi> 
+               <note place="margin">Mat. 6. 29.</note> 
+               <hi>in all his glory was not array'd like one of theſe.</hi> The greateſt induſtry in the World will afford you no other advantages, but ſuch mean things: Things which ſerve indeed, at preſent, the Neceſſities of a mortal Condition; but which you are not to carry hence, as being utterly uſeleſs in that ſtate hereafter, wherein Shame, and Hunger, and Thirſt ſhall have no Place, and Men ſhall be as Angels.</p>
+            <p n="2">2. The Vanity of this Life will alſo appear from the Conſideration of <hi>the deſigns</hi> of it; the nature of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Purpoſes, which are ordinar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly
+<pb n="16" facs="tcp:35961:16"/> taken up, and followed by the greateſt part of Mankind.</p>
+            <p>Suppoſing ſomething of real good in theſe Temporal things; yet the purſuit of that good is ſo difficult in it ſelf, and often meets with ſo many croſs Accidents, that to be buſie in it, is altogether vain and fooliſh: <hi>Becauſe to every</hi> 
+               <note place="margin">Eccl. 8. 6, 7.</note> 
+               <hi>purpoſe,</hi> ſaith Solomon, <hi>there is time and judgment; therefore the miſery of Man is great upon him: For he knoweth not that which ſhall be; for who can teſt him when it ſhall be?</hi> Much skill, and obſervation, and weighing of things are neceſſary to a regu<g ref="char:EOLhyphen"/>lar Conduct; the right Seaſon, and proper Cir<g ref="char:EOLhyphen"/>cumſtances of Actions being hard to be found out. And after theſe matters are fitly diſpos<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; the Event is ſtill covered with a Veil of darkneſs, which time alone is capable of removing.</p>
+            <p>He that contrives to gratifie a Carnal Appetite, that is, to be as happy as a Swine, frequently miſſeth his end by ill management. Some unex<g ref="char:EOLhyphen"/>pected Accident interrupts the deſign, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome Diſeaſe falls upon him, which quite overthrows it. He that is reſolved to be Rich, and there<g ref="char:EOLhyphen"/>fore riſeth early, and ſits up late, and eats the Bread of Carefulneſs; finds often to his Grief, that the Purpoſe will not proſper in his Hands: The toil and diligence will not ſucceed, nor yet
+<pb n="17" facs="tcp:35961:16"/> the injuſtice and rapine; having with <hi>Pharaoh</hi>'s lean Kine devoured the fat ones, he is ſtill lean as before. The Man who plods and flatters, undertakes the vileſt Employments, and ſets him<g ref="char:EOLhyphen"/>ſelf out to the baſeſt drudgery, complys with e<g ref="char:EOLhyphen"/>very Intereſt, is made a Property at pleaſure, and becomes the Tool of every Party, to arrive at length at the height he propoſeth to himſelf; finds at laſt his labour in vain, after ſo much endea<g ref="char:EOLhyphen"/>vour, the fine Projection miſcarries, the thing aim'd at proves to him inacceſſible, or elſe only a Precipice whence he tumbles down. But theſe, you will ſay, are the Counſells of wicked Men; and no wonder therefore that they are ſo fre<g ref="char:EOLhyphen"/>quently blaſted; there may be yet other deſigns, which as they are more juſt, ſo likewiſe more ſucceſsful; as, the Deſigns <hi>of a Family, of know<g ref="char:EOLhyphen"/>ledg and wiſdom.</hi> True it is indeed that theſe deſigns appear ſomewhat more conſiderable, be<g ref="char:EOLhyphen"/>ing ſuited to the innocent Inclinations of Man<g ref="char:EOLhyphen"/>kind; and therefore ſuch as we may more juſtly expect ſhould proſper; but yet we cannot put them out of the number of Vanities.</p>
+            <p>He, whoſe deſire and labour is for his Poſterity, thoſe Children which he hopes to leave behind him, is often diſappointed; diſappointed even when he thought he was entered on the Poſſeſſion
+<pb n="18" facs="tcp:35961:17"/> of his Wiſhes. His Sons and his Daughters, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom his Love was placed, either dye to his ſor<g ref="char:EOLhyphen"/>row, or live to his greater ſorrow; are eithe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atcht away and thrown into the Grave, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> elſe are left <hi>to conſume his Eyes, and to grieve hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heart.</hi>
+            </p>
+            <p>He that is eager too in the purſuit of know<g ref="char:EOLhyphen"/>ledg, purſues a thing, which, without a divin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stamp upon it to ſet it above the World, is no<g ref="char:EOLhyphen"/>thing elſe but vanity. <hi>Solomon</hi> reckons it laſt in<g ref="char:EOLhyphen"/>deed; but yet he re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kons it amongſt Impertine<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cies, amongſt Vexations. <hi>Of making many Boo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <note place="margin">
+                  <hi>Eccl.</hi> 12. 12.</note> 
+               <hi>there is no end, and much ſtudy is a wearineſs to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fleſh. Juſtin Martyr,</hi> being a Heathen, was ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ried <note place="margin">Haec de ſe fu<g ref="char:EOLhyphen"/>ſius narrat B. <hi>Juſtinus Mar.</hi> in dialogo ſuo cum Try<g ref="char:EOLhyphen"/>phone Ju<g ref="char:EOLhyphen"/>daeo paulo poſt princi<g ref="char:EOLhyphen"/>pium.</note> with a great deal of earneſtneſs to the ſtud<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>Grecian</hi> Learning, paſs'd through the ſev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ral Schools of <hi>Ariſtotle, Pythagoras,</hi> and <hi>Pla<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſought very curiouſly for ſomething ſatisfacto<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amongſt all their Precepts and Diſcoveries; bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nothing of that kind was it poſſible for him <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meet with, till he en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ountered a plain aged Chr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtian, who talk'd of Revelation and a Meſſiah<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who reaſon'd of Bliſs and Immortality, Rede<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ption and eternal Glory.</p>
+            <p n="3">3. Our Life is vain in reſpect of <hi>the continua<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of it. Did this World afford ſuch things, as ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make us happy, and were the method of co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:35961:17"/> paſſing them deſcribed unto us in plain and un<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring Rules; yet after all, the frailty of the Creature, to whom the fruition belongs, is ſo very great, as to give the whole the name of Vanity.</p>
+            <p>The man, our Saviour ſpeaks of, thought, no doubt, he had made an ample Proviſion for felicity. The materials, he choſe for it, were already at his command; and he careſs'd himſelf with the ſure expectation of the happy iſſue. <hi>This</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 12. 19.</note> 
+               <hi>will I do,</hi> ſaith he, and <hi>then ſay unto my ſoul, take thine eaſe.</hi> But, alas! all the while he forgets the very thing, which will deſtroy the Project, and Heaven puts him in mind of it. <hi>God ſaid unto him, thou fool, this night thy Soul ſhall be requir'd of thee.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alia agentem, atque medi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antem mors praev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nit,</hi> 
+               <note place="margin">
+                  <hi>Sueton. vit. Jul. Caeſ.</hi> c. 44.</note> ſays the Hiſtorian, concerning one of the great<g ref="char:EOLhyphen"/>eſt of Men; as he was now deſigning the great<g ref="char:EOLhyphen"/>eſt things. He that by an uninterrupted courſe of ſtudy, and diligence, and valour, and ſucceſs, had rais'd himſelf to a height, that no man e<g ref="char:EOLhyphen"/>ver arriv'd at before. And he that was now forming the deſigns of being yet higher and more glorious, tumbles in his Blood, and is for<g ref="char:EOLhyphen"/>ſaken by all, till at length three of his Servants have ſo much regard for the Emperor of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="20" facs="tcp:35961:18"/> World, as to take him up, and carry him home.</p>
+            <p>The Meditations are very good, though found in a Book which is very bad, that were occaſion'd by the view of a Mariner Shipwrackt, and caſt dead upon the Shore <q>Go now, ye Mortals, ſays <note place="margin">
+                     <hi>Petron. Arb. Satyric.</hi> cap. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> one who eſcaped the danger, go, and fill your Minds with vaſt Purpoſes: Go now ye Provi<g ref="char:EOLhyphen"/>dent, that are ſettling the Succeſſion of your Wealth for a thouſand years. See here the Perſon, who but yeſterday took an account of his Riches, and appointed the day in his thoughts when he ſhould be at home. Alas, how far ſhort is he fallen of the deſigns he had imagined! B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t this is not the Lot, continues he, of thoſe alone who commit themſelves to the Faith of the Seas. One Man miſcarries through the de<g ref="char:EOLhyphen"/>fects of his Armour, another by the fall of his Chariot, and a third is buried in the Ruines of the Place he came to worſhip in. Sometimes Meat deſtroys him that eats it, and ſometimes the want of it him that eats it not. If there<g ref="char:EOLhyphen"/>fore we reckon aright, Shipwrack is every where.</q>
+            </p>
+            <p>Indeed the continuance of Man is ſo ſhort, ſo tranſitory, that the Sacred Writers themſelves ſeem, as it were, at a loſs for words ſufficiently to
+<pb n="21" facs="tcp:35961:18"/> expreſs the Vanity of it. Sometimes this migh<g ref="char:EOLhyphen"/>ty thing Life (which we have ſo high an eſteem for, for the ſake of which we plow the Seas, and rip up the Earth, yea, are ready to turn the World upſide down) ſometimes it is call'd! What I pray? Not a <hi>Julian</hi> Period, or a <hi>Platonick</hi> Year, not a Summ to be reckon'd by Centuries or Ages; but a Duration to be meaſured by the Continuance of a Flower, or a Leaf of Graſs: <hi>All fleſh is as graſs, and all the glory of man as the</hi> 
+               <note place="margin">1 <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 1. 24.</note> 
+               <hi>flower of graſs: the graſs withereth, and the flower thereof falleth away.</hi> And at other times an Em<g ref="char:EOLhyphen"/>blem is made uſe of, that may expreſs a greater uncertainty: a Vapour is choſen, ſomething ex<g ref="char:EOLhyphen"/>haled out of the Earth on a ſuddain, and toſs'd away with the Wind. <hi>What is your life? it is</hi> 
+               <note place="margin">
+                  <hi>Jam.</hi> 4. 14.</note> 
+               <hi>even a vapour, that appeareth for a little time, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen vaniſheth away.</hi>
+            </p>
+            <p>And not to ſearch into the Ages paſt, and ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick out here and there ſome extraordinary in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tances of humane Frailty: conſider but what you have ſeen with your own Eyes, think upon the ſpeed of ſome, and the infancy of others, which have gone before you; yea lay <hi>the three<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>core years and ten</hi> (which a few, amongſt many Thouſands, come up to) into the Balance a<g ref="char:EOLhyphen"/>gainſt Eternity: And then all theſe expreſſions
+<pb n="22" facs="tcp:35961:19"/> will appear proper and natural, being but ſuted to that haſte and uncertainty they would de<g ref="char:EOLhyphen"/>ſcribe.</p>
+            <p>Indeed, Brethren, let us but look into our own frame: let us examine the Materials out of which we are formed, the ſineneſs of thoſe Threads with which we are woven; let us con<g ref="char:EOLhyphen"/>ſider a little how many Thouſand very tende<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parts are neceſſary to keep on the work of Life and withal what variety of diſorders all theſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts are conſtantly liable to: And then it wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appear unto us one of the greateſt wonders th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Creation preſents us with, that ſuch thing<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as we are, ſhould be able to continue, not fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> twenty, or thirty, or forty years; but only f<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> two or three days, or two or three hours tog<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther.</p>
+            <p>Having thus ſhewn you a little <hi>the vanity <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> humane Life:</hi> I now come to make uſe of t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſideration of it: and the things I would <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commend, as plainly following from it, are th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three:</p>
+            <list>
+               <item>Not to be in love with it.</item>
+               <item>To endeavour for a better.</item>
+               <item>To account the poſſeſſion of that better, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evil.</item>
+            </list>
+            <p n="1">
+               <pb n="23" facs="tcp:35961:19"/>1. Our condition in this preſent World, being ſo vain a thing, let us manifeſt our belief of this <hi>by not being in love with it. Wilt thou</hi> (ſays <note place="margin">
+                  <hi>Prov.</hi> 23. 5.</note> 
+               <hi>Solomon,</hi> ſpeaking of ſome Temporary Enjoy<g ref="char:EOLhyphen"/>ments) <hi>ſet thine eyes upon that which is not?</hi> Wilt thou be fond of what has no real Being, doat upon Shew, and court a Shadow? I Let not rea<g ref="char:EOLhyphen"/>ſonable Creatures, I beſeech you my Brethren, be guilty of any ſuch extravagance. Let us not pleaſe our ſelves with Emptineſs, and be zealous <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the purſuit of Trifles. Let us not place our Deſires and our Hopes upon what will miſerably deceive us. In ſhort, let us not ſeek for ſatiſ<g ref="char:EOLhyphen"/>faction there, where nothing is to be found but only Vanity.</p>
+            <p>The truth is, we have been ſo accuſtomed to miſtakes, that ſuch Doctrine, as this, is for the moſt part ſomewhat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of digeſtion. We <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave many of us been ſo long us'd to a good <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pinion of the World, that we know not how <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o begin to think meanly of it: Yea if we open <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Eyes a little at any time, and ſee ſomewhat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the fallacy; ſome ſhining Appearance da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es our ſight: If we awake a little, ſome ſoft <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir fans us again into our former ſlumber, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n we are pleas'd with fantaſtick Ideas, with a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ream of Felicity. The Gentleman in <hi>Arrianius</hi>
+               <pb n="24" facs="tcp:35961:20"/> returning from Baniſhment, ſeem'd to himſelf abundantly ſatisfied of the Follies of Ambition, and the Vanity of the World; declaim'd earneſt<g ref="char:EOLhyphen"/>ly againſt his former courſe of Life, and reſolved now for a Philoſophical Retirement, to ſpend all the little time ſhould be further allow'd him, in a happy Eaſe and Tranquillity. With theſe <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Arrian. Epictet. l. 1. cap. 10.</note> Thoughts and Deſigns he addreſſeth himſelf to his Journey; but he meets as he goes on with Letters from <hi>Caeſar:</hi> and the force, alas! of ſuch a Charm is not to be reſiſted, his Stoiciſm melt<g ref="char:EOLhyphen"/>eth preſently away, and all the late Purpoſes are now quite forgotten.</p>
+            <p>Be ſure therefore to uſe your utmoſt Induſtry not to be impos'd on: caſt off the prejudice of unreaſonable Luſts, all that Favour and Affecti<g ref="char:EOLhyphen"/>on which blind the Eyes, and warp the Judg<g ref="char:EOLhyphen"/>ment, that ſo at length you may be able to make a due eſtimate in this matter. For ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thoughts about theſe things are not meer ſpecu<g ref="char:EOLhyphen"/>lation, where tho' Truth be deſireable, we ru<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no hazard in erring: But they are the very bot<g ref="char:EOLhyphen"/>tom on which we build our Happineſs, accord<g ref="char:EOLhyphen"/>ing to the firmneſs of which it will either ſtan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or fall.</p>
+            <p>Indeed there is a certain Light, through whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if ye look on this mortal Life, you cannot b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:35961:20"/> miſtaken in it. There is a certain temper of the Mind, wherewith if you conſider the World, you will ſee through the <hi>f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cus</hi> or diſguiſe, which uſually covers it, and perceive truly what it is, and what regard it deſerves. I ſhall give you a little direction in this matter.</p>
+            <p n="1">(1.) Conſider this Life, as it appears <hi>in the day of Affliction:</hi> Conſider it as the Warmth and Sunſhine ceaſe, as the Clouds gather over your Heads, and a Storm approacheth. Conſider it as the Body is ſet upon the rack of a Diſeaſe, or the Mind afflicted. What taſte have ye, O all ye Earthly things, what Reliſh, what Sweet<g ref="char:EOLhyphen"/>neſs is there in you at ſuch a time as this is? What Refreſhment has the Man, who lies ſcorch<g ref="char:EOLhyphen"/>ing upon his Bed, who is tortur'd with Pain, or whoſe Soul is pierced by the Arrows of the Al<g ref="char:EOLhyphen"/>mighty? What comfort has he then in thinking he is the Maſter of ſo many Acres, or ſo many Bags; that his Table is loaden with Delicacies, and his Houſe bedeck't with no common Art; that he is a Perſon of Name, and hath been the talk of the World?</p>
+            <p n="2">(2.) Conſider this Life as it appears <hi>on the Day of Death.</hi> Imagine that, a Summons being ſent you for a ſpeedy Removal, an Hour or two were all the time you could further expect in
+<pb n="26" facs="tcp:35961:21"/> this World: and then conſider what thoughts you muſt needs have of this preſent Life, as you thus lookt back upon it from the brink of Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p>Certainly, Brethren, tho' we are now apt to put ſo great a value upon it, it will then appear a wretched impertinence, when all the Treaſures of the <hi>Eaſt</hi> and <hi>Weſt</hi> will not bribe us to a Smile; When Ceremony and Attendance become nauſe<g ref="char:EOLhyphen"/>ous: When there ſhall be no Taſte in Meat o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Drink, neither will the Ear hear the Voice of Singing Men or Singing Women: When the Soul is preparing for its everlaſting Flight, and the Body to go down to that Earth out of which it was taken.</p>
+            <p>But, that you may know, how the World looks to a Perſon on the Day of his Death: I will give you the Thoughts of <hi>two dying Men,</hi> 
+               <note place="margin">
+                  <hi>D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing and Dead Mens Words, by Dr.</hi> Lloyd. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond. 1673.</note> both of our own Nation, as we have them a<g ref="char:EOLhyphen"/>mongſt other very good things in <hi>a late Collection.</hi> One as great a States Man almoſt as ever was, <note place="margin">
+                  <hi>Sir</hi> John Ma<g ref="char:EOLhyphen"/>ſon.</note> Privy Councellor to four Princes: whoſe Declara<g ref="char:EOLhyphen"/>tion on his Death bed was this: <q>I have ſeen the moſt Remarkable things in Foreign Parts, been preſent for thirty Years together at moſt Tranſactions of State, and have learnt this after ſo many Years Experience, That Se<g ref="char:EOLhyphen"/>riouſneſs
+<pb n="27" facs="tcp:35961:21"/> is the greateſt Wiſdom, Temperance the beſt Phyſick, and a good Conſcience the beſt Eſtate: And were I to live again, I would change the Court for a Cloyſter; the buſtles of State for an obſcure Retirement; and the whole Life I liv'd in the Palace, for one Hours enjoy<g ref="char:EOLhyphen"/>ment of God in the Chappel: All things elſe forſake me beſides my God, my Duty, and my Prayer.</q>
+            </p>
+            <p>The other, a Man of as much Reading, as <note place="margin">
+                  <hi>Mr.</hi> Selden.</note> any our latter Ages have afforded, who, when he came to die, amongſt all the Learning of the Sons of Men, which he had ſurvey'd, amongſt all the numerous Books and Manuſcripts he had perus'd and was Maſter of, could not meet with any thing that gave the ſatisfaction to his Soul, which he found in theſe words of St. <hi>Paul: The</hi> 
+               <note place="margin">
+                  <hi>Tit.</hi> 2. 11, 12.</note> 
+               <hi>grace of God, which bringeth ſalvation, hath appeared <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o all men; teaching us, that denying ungodlineſs and worldly luſts, we ſhould live ſoberly, righteouſly, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odly in this preſent world.</hi>
+            </p>
+            <p n="3">(3.) Conſider too what this Life will appear <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Day of Judgment.</hi> That is the time, when <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Diſguiſes ſhall utterly vaniſh, and every thing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſeen in its proper Colours. Think therefore <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you now ſtood before the Tribunal of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord Chriſt, and there it were required of you
+<pb n="28" facs="tcp:35961:22"/> to judge of that, for your eſteem, and uſe, and abuſe of which, you your ſelves ſhall then be judged. In ſuch Circumſtances as theſe, doubt<g ref="char:EOLhyphen"/>leſs your Opinions of things would be very dif<g ref="char:EOLhyphen"/>ferent from what they too commonly have been.</p>
+            <p>What will Greatneſs, and Honour, and Fame ſignifie, when there ſhall be no reſpect of Per<g ref="char:EOLhyphen"/>ſons; when the obſcure Slave will be upon the ſame Level with the Crowned Head; when there ſhall be no diſtinction known, but that of <hi>the ſheep on the right hand, and the goats on the left?</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 25. 33.</note>
+            </p>
+            <p>What will the having been the Poſſeſſor of a great deal of Gold and Silver, many Houſes and much Land be then accounted of, when the whole Frame of the World is cracking and diſ<g ref="char:EOLhyphen"/>ſolving; <hi>the earth burning up, and the elements melt<g ref="char:EOLhyphen"/>ing</hi> 
+               <note place="margin">2 <hi>Pet.</hi> 3. 10.</note> 
+               <hi>with fervent heat?</hi>
+            </p>
+            <p>
+               <hi>Finally,</hi> What will the Memory of paſt Plea<g ref="char:EOLhyphen"/>ſures amount to, the Deliciouſneſs of this Fare, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sumptuouſneſs of that Cloathing, or the Sweetneſs of the other Enjoyment? Yea, how glad would many be, if no ſuch things had eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been, then, when a ſtrict account is to be given <hi>of every thing that hath been done in the fleſh?</hi> But, <note place="margin">2 <hi>Cor.</hi> 5. 10.</note>
+            </p>
+            <p n="2">2. If our Condition is ſo vain a thing, then hence alſo let us be ſtir'd up to vigorous and hearty <hi>endeavours after a better.</hi> Tho' our preſent
+<pb n="29" facs="tcp:35961:22"/> Habitation, or rather Place of our Pilgrimage be nothing elſe but Vanity; yet there is a Country, which we have heard of, abounding with ſub<g ref="char:EOLhyphen"/>ſtantial things.</p>
+            <p>Thoſe that have ſeen it, and known it, and came from it, have made relations of what it is: They have ſpoken much of the Joys and the Glo<g ref="char:EOLhyphen"/>ries of it, have told us, that nothing there is Dark, or Frail, or Tranſitory; but all things Pure, Clear, and Admirable, of a Goodneſs more extenſive than our very Deſires, Brighter than ten thouſand Suns, and as Laſting as Eternity: yea, they have aſſur'd us that the things of it are <hi>unſpeakable,</hi> be<g ref="char:EOLhyphen"/>yond the power of Words or Deſcription.</p>
+            <p>We have too ſufficient ground to believe, that this bleſſed Condition is not ſuch as cannot belong to us; but that we are capable of it, and were even Originally deſign'd for it, that, as the Author of the Book of Wiſdom ſpeaks, <hi>God created man to be im<g ref="char:EOLhyphen"/>mortal,</hi> 
+               <note place="margin">
+                  <hi>Wiſd.</hi> 2. 23.</note> 
+               <hi>and made him to be an Image of his own eternity.</hi>
+            </p>
+            <p>Yea more than all this, Solemn Overtures have been made, Meſſages have been ſent to us: We have been directed, enabled, invited, perſwaded with the greateſt earneſtneſs to come, and to ſe<g ref="char:EOLhyphen"/>cure to our ſelves this bleſſed Habitation.</p>
+            <p>And Oh, my Brethren, ſhall we not now think it worthy of our thoughts and our care?
+<pb n="30" facs="tcp:35961:23"/> Shall we any of us neglect any longer to com<g ref="char:EOLhyphen"/>ply with thoſe methods, which Heaven hath found out for tranſplanting of us from Vanity and Trouble into Bliſs and Immortality?</p>
+            <p>It is not indeed any light performance, which will fit us for that better ſtate; not a little Out<g ref="char:EOLhyphen"/>ſide Service, or a little Lip-devotion; no, nor now and then a pious Warmth, or a melting Temper; not a liſting our ſelves in this or that Party, or being reckoned under ſuch a Denomi<g ref="char:EOLhyphen"/>nation. The paſſage through the ſtrait Gate is not ſo eaſie as theſe things. But it is a <hi>faith that worketh by love,</hi> a due conformity to all the Evan<g ref="char:EOLhyphen"/>gelical Propoſals, a <hi>working</hi> continually <hi>with fear and trembling,</hi> a having our Minds above the World, <hi>uſing it ſo as if we us'd it not.</hi> In ſhort, a being Religious, Sober, Juſt and Charitable in our Converſation.</p>
+            <p>Theſe are the Terms which the Angel of the Covenant requires; and ſhall we ſtand at the dif<g ref="char:EOLhyphen"/>ficulty of them, ſince they lead to real and laſt<g ref="char:EOLhyphen"/>ing Good? Shall we be diſcourag'd in an under<g ref="char:EOLhyphen"/>taking, that will advance us above the Vanity of this preſent Life, add ſome ſolidity even to theſe fleeting things, converting our periſhing Riches into an Heavenly Treaſure, and at length bring us to a glorious Eternity?</p>
+            <pb n="31" facs="tcp:35961:23"/>
+            <p>Thirdly and Laſtly, our Eſtate at preſent being vain, let us <hi>account the poſſeſſion of that better one,</hi> we have been ſpeaking of <hi>no evil.</hi> Let us not be unwilling to enter, when God's time ſhall come, upon theſe never fading Enjoyments our ſelves; or ſeem to envy the fruition of them to our departed Friends.</p>
+            <p>Indeed for thoſe, who are without the Pale of the Church, or for the negligent within it, to be amazed at the Apprehenſions of death, is but what is natural, is but what is too reaſonable. But for Chriſtians to be ſo affected, ſhews that ſome<g ref="char:EOLhyphen"/>thing is yet amiſs with them; that though they are <hi>Iſraelites</hi> travelling for <hi>Ca<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aan,</hi> they have not quite forgot the things of <hi>Egypt;</hi> that ſome re<g ref="char:EOLhyphen"/>mains are ſtill in them of the Love of this preſent World, or elſe ſome Tincture of Infidelity.</p>
+            <p>Certainly, Brethren, if we are as we ought to be; if the Sacred Truths of the Goſpel are throughly aſſented to in our Minds; and the Power of Religion has new form'd o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hearts, we ſhall be ready to ſay under the expectation of our own deaths, with an humble Confidence in the Merits of our Redeemer, <hi>Come Lord Jeſus, come quickly;</hi> and at the departure of our Chriſtian Friends, <hi>The Lord hath taken away, bleſſed be the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame of the Lord.</hi>
+            </p>
+            <pb n="32" facs="tcp:35961:24"/>
+            <p>As for our Neighbour and Friend whom we have now committed to the Grave, as I am not fond of ſuch a Task in this Place, ſo I am not ſufficiently qualified to give you the perfect Cha<g ref="char:EOLhyphen"/>racter of him. Our Chriſtian hope is, that he hath exchanged a Scene of Vanity for eternal Glory. He hath long been exerciſed with a troubleſome, a painful Diſeaſe, a Sacred Diſci<g ref="char:EOLhyphen"/>pline ſufficient to inſtruct him in the Vanity of the World, and, we hope, he was not unfruitful under it: Yea, he manifeſted that he was not, by an upright, and juſt, and, as I am inform'd, a very charitable Converſation. His Death-bed ſhew'd him Devout and Pious; and he was fre<g ref="char:EOLhyphen"/>quent in the Acts of a Duty, which as it is ex<g ref="char:EOLhyphen"/>treamly unſafe to begin on it, it is neither ſafe to give over on it, Repentance.</p>
+            <p>But I ſhall conclude all with that advice, which I have often given on ſuch occaſions; becauſe it is ſome of the beſt I can give on ſuch occaſions. The Failings, the Defects, that you obſerv'd in him (for the beſt of us are infirm and falli<g ref="char:EOLhyphen"/>ble) learn to avoid. The things that were Vir<g ref="char:EOLhyphen"/>tuous, and Holy, Comely, and of good Report, reſolve to tranſcribe and imitate.</p>
+         </div>
+         <div n="2" type="sermon">
+            <pb n="33" facs="tcp:35961:24"/>
+            <head>The Second SERMON.</head>
+            <epigraph>
+               <q>
+                  <bibl>ECCL. 4. 2.</bibl>
+                  <p>I praiſed the dead which are already dead, more than the living which are yet alive.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>PLato,</hi> in his Apology for <hi>Socrates,</hi> tells us, <note place="margin">Plat. Oper. p. 360.</note> that That excellent Perſon made it his bu<g ref="char:EOLhyphen"/>ſineſs for ſome time to find out a pru<g ref="char:EOLhyphen"/>dent Man: He diligently ſearch'd amongſt the ſeveral Ranks of People to diſcover, if it were poſſible, one truly Wiſe.</p>
+            <p>A Task ſomewhat like it is that, which a more excellent Perſon, by a much more excellent Spi<g ref="char:EOLhyphen"/>rit, is engaged in here in this Book of <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtes. He gave his heart to ſeek and to ſearch out by</hi> 
+               <note place="margin">
+                  <hi>Eccl.</hi> 1. 13.</note> 
+               <hi>wiſdom, concerning all things that are done under hea<g ref="char:EOLhyphen"/>ven;</hi> he made a very ſtrict enquiry, and the thing
+<pb n="34" facs="tcp:35961:25"/> he lookt for was Felicity: what ſort of People are in the Condition moſt deſirable and bleſſed.</p>
+            <p>He ſeeks for theſe amongſt the Gay and the Pleaſant, thoſe who give themſelves up to the gratification of all their irregular Appetites; but here he cannot find them. He continues his enquiry amongſt the Induſtrious and the Careful, and with the ſame error and diſappoint<g ref="char:EOLhyphen"/>ment. He ſearcheth amongſt the Knowing and the Great, the Plodding and the Active, the Men of Deſign and Buſineſs: yea he runs through the ſeveral Orders of the World; but his labour is ſtill fruitleſs, all the diſcovery he is able to make being only this, VANITY AND VEXATION OF SPIRIT.</p>
+            <p>His ſearch being unſucceſsful above Ground, he tries withal a little what can be met with un<g ref="char:EOLhyphen"/>der it, views the hollow Eye-pits, the ſhatter'd Bones, and mouldring Aſhes in the Grave. And of this enquiry, behold the reſult, <hi>I praiſed the dead,</hi> ſays he, <hi>which are already dead, more than the living which are yet alive.</hi>
+            </p>
+            <p>The general Deſign of the Preacher in theſe words ſeems plain enough, they being a decla<g ref="char:EOLhyphen"/>ration, that in the accounts of Happineſs, the Condition of <hi>the dead</hi> is to be prefer'd to that of <hi>the living.</hi>
+            </p>
+            <pb n="35" facs="tcp:35961:25"/>
+            <p>The former of theſe two ſtates is what he lately examined; and tho' (as he thought fit to govern himſelf) he met with nothing in it but corruption and uncertainty; yet <hi>returning and con<g ref="char:EOLhyphen"/>ſidering</hi> the Calamities of Life, Death appear'd deſirable, and he began to praiſe it. Like one a<g ref="char:EOLhyphen"/>maz'd with many grievances before his Eyes, he cries out, and ſeems to ſay ſuch words as theſe: Death is the tying indeed, which humbleth the Pride of the higheſt Mortal, down to the level of the meaneſt Slave: yea ſome curious reſearches have afforded us but imperfect relations of the dif<g ref="char:EOLhyphen"/>ference, it leaveth, between the Man and the Beaſt; however we cannot eaſily imagine it to be more <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntolerable than the preſent Bondage. Tho' the Houſe we muſt all go to at laſt be ſo dreadful to us, that we are apt to recoil, and ſhrink, and not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ield, at any rate, to be willing to enter it; yet is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t poſſible to conceive more unſufferable things <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it, than the Labours and Sorrows, which now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmoſt perpetually oppreſs the Sons of Men?</p>
+            <p>A very ancient Commentator diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overs a myſtical Senſe in this place, <note place="margin">Si renunciâſti ſeculo, ſi abjeciſti vitia, ſi jam non moveris ad peccatum, ſed mortuus es ad peccatum, me<g ref="char:EOLhyphen"/>lior es illo qui vivit peccato, &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit in te mors iſta lau<g ref="char:EOLhyphen"/>dabilis. <hi>O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igen. in Num. 12. Homil.</hi> 7.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd would underſtand by the <hi>dead,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch as are dead to ſin; and by the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving,</hi> thoſe that ſtill go on in it. An <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nterpretation, which contains a Truth,
+<pb n="36" facs="tcp:35961:26"/> a very great Truth; but not, I think, what is agreeable here. I ſhall conſider the words ac<g ref="char:EOLhyphen"/>cording to their literal meaning, which I take to be this, <hi>That the miſeries mankind is expos'd to in this preſent Life, are ſufficient to make them conſider Death as a thing of advantage.</hi>
+            </p>
+            <p>
+               <hi>Man,</hi> ſaith <hi>Job, lieth down, and riſeth not, till the heavens be no more:</hi> He goes into the Region of Death; but he does not return and make diſco<g ref="char:EOLhyphen"/>veries of the place. The evils of Life are things of Senſe, we ſee them, we very often feel them; but of what ſhall be hereafter the only infor<g ref="char:EOLhyphen"/>mation we can receive is by Reaſon and Reve<g ref="char:EOLhyphen"/>lation. In the following diſcourſe I ſhall there<g ref="char:EOLhyphen"/>fore endeavour to ſhew the advantages of <hi>th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dead</hi> above <hi>the living</hi> both theſe ways: as they are to be diſcern'd,</p>
+            <list>
+               <item>1. By meer Natural Eyes.</item>
+               <item>2. By the Eye of Faith.</item>
+            </list>
+            <p n="1">1. The benefits of Death, as conſider'd by natural Men, are but mean and low; yet ſome<g ref="char:EOLhyphen"/>thing, we know, they have been able to perceiv<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in it preferable to the Evils of this miſerabl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Life: and that with relation both to the Bod<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the Soul.</p>
+            <p n="1">
+               <pb n="37" facs="tcp:35961:26"/>(1.) As for the Body, they could ſee nothing in the diſſolution of it, but what is common to Brutes: <hi>That which befalleth the Sons of Men, be<g ref="char:EOLhyphen"/>falleth Beaſts:—All go unto one place, all are of the Duſt, and all turn to Duſt again:</hi> ſo the Preacher ſeems to ſpeak their Sentiments, <hi>Chap. 3. verſe</hi> 
+               <note place="margin">Vid. Notat. in vitam Diony<g ref="char:EOLhyphen"/>ſii per Petr. Halloix Dio<g ref="char:EOLhyphen"/>nyſ. Oper. Tom. 2. p. 269. &amp; Grot. de verit. Relig. l. 2. c. 7.</note> 19, 20. Some of the <hi>Greek</hi> Philoſophers fell in<g ref="char:EOLhyphen"/>deed upon the Opinion of a Reſurrection; but the Tenet, we find, had but ſlender entertain<g ref="char:EOLhyphen"/>ment: for when St. <hi>Paul</hi> Preach'd at <hi>Athens,</hi> it was treated as an impoſſibility.</p>
+            <p>But, tho' the wiſer Heathen for the moſt part could not hope for a return of the Body from the Grave, they could however conſider it there as ſilent and at reſt, they could perceive an end of all the Labours, Pains, and Grievances of it.</p>
+            <p>How often does a Man throughout the courſe of no long Life complain of Hunger, and Thirſt, and Wearineſs? How often is he ſcorched with burning Heats? How often are his Sinews, his Bowels pierc'd through with unſufferable Pains, ſo that he roars like a diſtracted Perſon becauſe of the violence of the torment? Now Death puts an end to all theſe diſorders; Sighs, and Complaints, and Cries are not heard in the Pit: The fatal thing comes as an Univerſal Remedy for all kinds of Diſeaſes and Miſeries, and there<g ref="char:EOLhyphen"/>fore
+<pb n="38" facs="tcp:35961:27"/> the approach of it hath been ſometimes de<g ref="char:EOLhyphen"/>ſired with much impatience. <hi>Wherefore,</hi> ſays <hi>Job, is light given to him that is in miſery, and life unto</hi> 
+               <note place="margin">
+                  <hi>Job.</hi> 3. 20.—</note> 
+               <hi>the bitter in ſoul? Which long for death, and it cometh not, and dig for it more than for hid treaſures: which rejoice exceedingly, and are glad when they can find the grave.</hi>
+            </p>
+            <p n="2">(2.) Concerning the condition of the Soul af<g ref="char:EOLhyphen"/>ter Death, there has been much uncertainty in the Opinions of natural Men. <hi>Who knoweth,</hi> ſaith the Preacher, <hi>Chap. 3. verſe 21. the ſpirit of a man that goeth upward, and the ſpirit of the beaſt that goeth downward?</hi> Who by the Light of Reaſon can be certain (for ſo ſome underſtand the place) of any ſuch difference? Or, according to others, who is able to ſtate the difference right, decla<g ref="char:EOLhyphen"/>ring the things of each? Some of the learned Heathen fancied that the Soul, immediately as <note place="margin">Vid. Ciceron. Tuſcul. Quaeſt. lib. 1. &amp; Plu<g ref="char:EOLhyphen"/>tarch. de pla<g ref="char:EOLhyphen"/>citis Philoſ. lib. 4. cap. 7.</note> the Body becomes unfit for it, vaniſheth into the ſoft Air: and the greater number, who were con<g ref="char:EOLhyphen"/>vinc'd of its Immortality, were yet full of doubt about its future Condition and Employment. However, amidſt all this darkneſs, they were able to diſcern ſomewhat more valuable than the pre<g ref="char:EOLhyphen"/>ſent Slavery. To be even nothing at all, they thought, was not to be miſerable: and whatſo<g ref="char:EOLhyphen"/>ever abode the Soul, in caſe it ſurvives, is to have
+<pb n="39" facs="tcp:35961:27"/> after Death, it could not eaſily be believed more inconvenient than the Priſon it now dwels in.</p>
+            <p>It was obſerv'd by <hi>Eliphaz,</hi> that trouble is the <note place="margin">Job 5. 7.</note> Birthright of Man: that it is as natural for him to undergo it, as for the Sparks to fly upward. The ſenſe is ſomewhat different in the <hi>Septuagint;</hi> 
+               <note place="margin">Haud abſimi<g ref="char:EOLhyphen"/>le eſt iſtud Comici apud Athenaeum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Deip<g ref="char:EOLhyphen"/>noſoph. l. 6. p. 223. Haec S. Chry<g ref="char:EOLhyphen"/>ſoſtomus, &amp; ſimilia ferè Olympiodo<g ref="char:EOLhyphen"/>rus in Catena in <hi>Job.</hi>
+               </note> but it occaſions the following Paraphraſe of an excellent Father: <q>Humane Nature, ſays he, is inferior to the Productions of the Earth, and the Mountains, which know no ſorrow either in their beginnings or increaſe. Yea, the Birds are allow'd to make their Motions without pain, and to gather their Meat without trouble, but Man in all theſe things is very miſerable.</q>
+            </p>
+            <p>And declarations of the ſame kind are often <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et with in the Books of the <hi>Gentiles. Seneca</hi> conſidering the wretched Circum<g ref="char:EOLhyphen"/>ſtances of humane Life, wonder'd at <note place="margin">Non videmus quam mul<g ref="char:EOLhyphen"/>ta nos incommoda exagi<g ref="char:EOLhyphen"/>tant, quam malè nobis con<g ref="char:EOLhyphen"/>veniat hoc corpus?—Hoc evenire ſolet in alieno ha<g ref="char:EOLhyphen"/>bitantibus. <hi>Seneca Epiſt.</hi> 120.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he diſproportion between the Inn and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Gueſt, thence concluding, that ſo Noble a Being could not be deſign'd <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſo vile an Habitation.</p>
+            <p>And <hi>Pliny</hi> writing the Hiſtory of living Crea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, <note place="margin">Plin. Nat. Hiſt. <hi>lib.</hi> 7.</note> begins it with a complaint, That Nature <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath been more unkind to Man than to any <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther Beings. He is, ſays he, at firſt the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eakeſt, and always after the moſt ſickly thing.
+<pb n="40" facs="tcp:35961:28"/> Other Animals are acquainted with neceſſary Arts without the trouble of Inſtruction; but Man knows not any thing till he is taught, unleſs it be how to cry. To him alone, among all li<g ref="char:EOLhyphen"/>ving things, belong Mourning, and Luxury, and Ambition, and Covetouſneſs, and Superſtition. As the Life of nothing elſe is more frail, ſo no other Appetites are more inſatiable than his. None are ſo apt to be terrified and confounded. None more diſpoſed to Rage and Fury. Other living Creatures of the ſame kind live Peaceably together, we ſee them joyn and oppoſe thoſe that oppoſe them: The fierceneſs of Lions is not engaged againſt Lions, neither do Serpents bite one another; but Men, alas! are the greateſt Enemies to Men, the Kind is perpetually at Wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with it ſelf, and one ſeeks the Miſchief and Ru<g ref="char:EOLhyphen"/>ine of the other.</p>
+            <p>Indeed, he that duly conſiders the Thraldom of an Intellectual Being, as it is now fetter'd i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Priſon of Earth, made liable to ſo many Impreſſions, diſcompoſed and agitated by ſo ma<g ref="char:EOLhyphen"/>ny Paſſions, and enſlav'd to Corruption, muſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> needs conclude that Man is the only thing, whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſomething extraordinary hath befall'n: that e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther God, who made him, deſign'd him at firſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for greater Miſery than the reſt of the Creature<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="41" facs="tcp:35961:28"/> or elſe (which is indeed the truth) that he is tumbled down from his Original Perfection, and become only the Ruines of what he was.</p>
+            <p>And now it was the view of ſuch diſorders and perplexities of Life which gave the chief oc<g ref="char:EOLhyphen"/>caſion to thoſe Heathens themſelves, to beſtow ſo frequently their Commendations on Death. O how ignorant, ſays one of them, are thoſe Peo<g ref="char:EOLhyphen"/>ple of what they ſuffer, who do not magnifie Death as the beſt of things! Some call'd it the <note place="margin">O ignaros ma<g ref="char:EOLhyphen"/>lorum ſuorum quibus non mors ut opti<g ref="char:EOLhyphen"/>mum naturae inventum laudatur! <hi>Senec. de Con<g ref="char:EOLhyphen"/>ſolat. ad Marc. c.</hi> 20. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Aeſchy<g ref="char:EOLhyphen"/>lus apud Plu<g ref="char:EOLhyphen"/>tarch. Tom. 2. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 106. Multi extitêre, qui non naſci optimum cenſerent, aut quam ocyſſimè aboleri. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Secundus Nat. Hiſtor. in Praefat. ad lib. 7. ad ea, ut videtur, reſpiciens quae dicta ſunt de Sileno, Alcidamo &amp; pluribus aliis à Cicerone Tuſcul. quaeſt. lib. 1. Haec ubi res fortuna malè diviſit—exaequat omnia—Haec eſt, inquam, quae effecit ut naſci non ſit ſupplici<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m; quae efficit ut non concidam adverſus minas caſuum—Seneca ubi ſupra. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Haec de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rauſis populo Thraciae Herodotus lib. 5. §. 4.</note> Remedy of evils, the Deſire of the afflicted; others conſider'd it as a thing which rights all Wrongs, levels all Inequality, and inſpires with generous Reſolutions. And by the cuſtom of a whole Nation the Funerals of the Dead were perform'd with Songs and other expreſſions of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy; whereas the new-born Infant was received by them into the World, with Sorrow and La<g ref="char:EOLhyphen"/>mentation.</p>
+            <pb n="42" facs="tcp:35961:29"/>
+            <p>We have thus ſufficiently ſeen how <hi>Solomon</hi>'s declaration in the Text holds true, as the things it concerns are view'd by natural Men. And I have been the longer in ſhewing it, becauſe (as it is the Opinion of ſeveral Expoſitors, and as methinks is manifeſt from the foregoing and fol<g ref="char:EOLhyphen"/>lowing words) by ſuch Meaſures as thoſe the wiſe Man was now conducting his Enquiries. To prove that the great pretenders of the World are miſtaken in their thoughts of Felicity, h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> walks along with them a little in their own Path, to ſearch it out. <hi>He that ſpake of trees, from th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <note place="margin">1 <hi>Kings</hi> 4. 33.</note> 
+               <hi>cedar that is in Lebanon, even unto the byſſop th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpringeth out of the wall; that ſpake alſo of beaſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and of fowl, and of creeping things, and of fiſhes</hi> ſeems here to take Man for the ſubject of hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Philoſophy, conſidering him and his Happineſs as to be known by the help alone of m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er unen<g ref="char:EOLhyphen"/>lightened Reaſon.</p>
+            <p n="2">2. The firſt thing propos'd being finiſh'd, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now come to the ſecond, to ſhew <hi>the advantage<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Dead above the Living, as they are to be diſ<g ref="char:EOLhyphen"/>cern'd by the Eye of Faith.</hi> A cloudy and corrup<g ref="char:EOLhyphen"/>ted Reaſon can afford but very doubtful a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>counts of what ſhall be hereafter; but the d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fects of that are abundantly ſupplied to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church by Revelation from above. The Grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:35961:29"/> God, who is the Lord of Death, and whoſe Com<g ref="char:EOLhyphen"/>mands it always obeys, hath been pleas'd to ac<g ref="char:EOLhyphen"/>quaint us with the things which he himſelf hath appointed to ſucceed it.</p>
+            <p>All the ſorts of mankind come, you know, under one or other of theſe two denominations, <hi>Righteous</hi> and <hi>Wicked.</hi> Now the words of <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> in the Text, being indefinite, and the Se<g ref="char:EOLhyphen"/>venty <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—Sept.</note> Interpreters having render'd them by ſuch as are expreſly Univerſal: Some of the Fathers have apply'd them as to the former, ſo to the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atter alſo; aſſerting that even to Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>robates themſelves a ſpeedy Death is <note place="margin">Gravius eſt enim ad pec<g ref="char:EOLhyphen"/>catum vivere quam in pec<g ref="char:EOLhyphen"/>cato mori; quia impius quam diu vivit peccatum auget: Si moriatur peccare deſinit. S. Ambr. de bono Mortis, c. 7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. S Chryſoſt. Tom. 1. p. 734. Edit. Savil. Simile quiddam habet divinus ille Philoſophus Boetius lib 4. Proſ. 4. Si nequitia miſeros facit, miſerior ſit neceſſe eſt diuturnior nequam.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter than a prolonged Life: For ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Iniquity (which is the only cauſe of Infelicity) is cut off, and conſe<g ref="char:EOLhyphen"/>quently the degree of their future <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ufferings ſomewhat leſſen'd: He that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inks under the tranſgreſſions of a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew Weeks or Months, being likely to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nherit more eaſie torments, than they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at have gone on in a courſe of Impenitency <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or many Years. And this Opinion is not with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ground from other places of Scripture: The <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſtle tells us, that <hi>they who deſpiſe the riches of</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 2. 4, 5.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od's goodneſs, forbearance, and long ſuffering;</hi> that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hard and untractable a great while under
+<pb n="44" facs="tcp:35961:30"/> the continued calls of unwearied Mercy, <hi>do trea<g ref="char:EOLhyphen"/>ſure up wrath againſt the day of wrath,</hi> do encreaſe the Meaſures of Vengeance according to the pro<g ref="char:EOLhyphen"/>portions of their Crimes. And ſaith our Savi<g ref="char:EOLhyphen"/>our to <hi>Capernaum, It ſhall be more tolerable for the</hi> 
+               <note place="margin">
+                  <hi>Matth.</hi> 11. 23.</note> 
+               <hi>land of Sodom in the day of judgment than for thee:</hi> that is the obſtinacy of thoſe, who contemn'd the preaching of <hi>Lot</hi> was not to ſuch a height as theirs who rejected the many Overtures and Mi<g ref="char:EOLhyphen"/>racles of the Meſſiah himſelf, and as there was ſuch a difference in the guilt, ſo there ſhall be hereafter in the puniſhment.</p>
+            <p>In ſuch a ſenſe as this, Death to the impenitent is to be prefer'd before Life; but it is all the while a ſad preference. A Sinner haſtily ſnatch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away, 'tis true, inherits the leſſer evil; yet that leſſer evil is greater than can be conceiv'd; it is ſtill dreadful as the Flames, which the Breath of the Almighty hath kindled, and which are to burn for ever. Concerning ſuch a Perſon as this the words following my Text may be fitly ſaid, <hi>Better yet is he that hath not been;</hi> better is the condition of him that died from the Womb, and gave up the Ghoſt when he came out of <note place="margin">Mortuus prae<g ref="char:EOLhyphen"/>fertur viventi quia peccare deſivit. Mor<g ref="char:EOLhyphen"/>tuo praefertur qui natus non eſt; quia peccare neſcivit. S. Ambroſ. Expoſit. in Pſal. 118. Serm. 18. vid S. Hieronym. in Ec cl. 4.</note> the Belly: or as our Saviour ſaid of <hi>Judas, I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="45" facs="tcp:35961:30"/> had been good for that man, if he had not been born.</hi>
+            </p>
+            <p>Without a miſerable limitation or abatement, we ſee, theſe words of the Preacher are not to be applied to Sinners; but then to thoſe that have been ſincerely conformable to the Precepts of the Holy <hi>Jeſus,</hi> and have ſecured an Intereſt in his Mediation, they fully agree. Happy, in<g ref="char:EOLhyphen"/>finitely happy is the condition of ſuch Perſons being dead, beyond what they themſelves, or any other were or are being alive. Death which is the product of Sin, by a Divine and Wonder<g ref="char:EOLhyphen"/>ful Skill, is chang'd to them into the greateſt of Benefits. <hi>Bleſſed are the dead, that die in the Lord:</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 14. 13.</note> 
+               <hi>for they reſt from their labours, and their works do follow them.</hi>
+            </p>
+            <p>To declare the Advantages of ſuch as theſe, being <hi>dead</hi> above thoſe of the living, is the great buſineſs of moſt of the Evangelical Promiſes. I ſhall put you in mind of ſome of them, theſe two ways, <hi>viz.</hi> by ſhewing you a little,</p>
+            <list>
+               <item>1. What Death delivers the righteous from.</item>
+               <item>2. What it gives poſſeſſion of.</item>
+            </list>
+            <p n="1">1. The Death of the Righteous is to be pre<g ref="char:EOLhyphen"/>fer'd to Life, becauſe of the things it delivers
+<pb n="46" facs="tcp:35961:31"/> from, namely much trouble and affliction. God hath not deſign'd for his Servants while on Earth ſerene and Halcyon days; but leaves them even to more than the ordinary inconveniences of a mortal condition. When that ſtrange Plague in the time of <hi>Gallus</hi> and <hi>Voluſianus</hi> paſſing through <hi>Arabia</hi> and <hi>Egypt,</hi> and deſtroying mightily as it paſt, came at length into <hi>Africa,</hi> ſome of the Chriſtians there wonder'd, that it made no di<g ref="char:EOLhyphen"/>ſtinction between the Profeſſors and the Enemies of the True Religion. <note place="margin">At enim quoſdam movet quod aequaliter cum genti<g ref="char:EOLhyphen"/>libus noſtros morbi iſtius valetudo corripiat; quaſi ad hoc crediderit Chriſtianus, &amp;c. <hi>Cyprian. de Mortalitate, p. 158. Edit. Oxon.</hi>
+               </note> But their excellent Biſhop in that ad<g ref="char:EOLhyphen"/>mirable diſcourſe he wrote on that occaſion, earneſtly reprov'd in them ſo groſs an ignorance of the Nature and Deſigns of the Goſpel they pretended to: as if, ſays he, a Chriſtian did believe for no o<g ref="char:EOLhyphen"/>ther purpoſe but a preſent ſecurity; and it were not appointed for ſuch to enter through the greateſt Adverſity here into future Joy. Our Sa<g ref="char:EOLhyphen"/>viour ſeems indeed once to have given his Diſci<g ref="char:EOLhyphen"/>ples <note place="margin">
+                  <hi>Mark</hi> 10. 30.</note> a Promiſe of Temporal Felicity, that thoſe Houſes and Lands which were loſt for the ſake of him, and the Goſpel, ſhould be made up a<g ref="char:EOLhyphen"/>gain by an extraordinary Providence. But if the things mention'd have not (as it is thought by ſome) a Spiritual meaning, the Promiſe how<g ref="char:EOLhyphen"/>ever
+<pb n="47" facs="tcp:35961:31"/> was attended with a bitter exception: it ſhould be fulfilled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with a reſerve of Trouble, with a certain mixture or alloy of Per<g ref="char:EOLhyphen"/>ſecutions.</p>
+            <p>As for this preſent Life, if Happineſs is to be meaſur'd by the outward appearance, the fol<g ref="char:EOLhyphen"/>lowers of <hi>Jeſus</hi> are ordinarily the greateſt Wretches in the World: for ſo the Apoſtle in effect tells us. <hi>If,</hi> ſays he, <hi>in this life only we have hope in</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 15. 19.</note> 
+               <hi>Chriſt; we are of all men moſt miſerable.</hi> Beſides thoſe troubles which (as we have ſeen) are na<g ref="char:EOLhyphen"/>tural to Mankind, there are other labours and ſorrows belonging to them that follow a Leader who conquer'd through Sufferings. Even the gracious expreſſions of his peculiar Love to them do as it were mark them out for a large portion of trouble: and he ſo engageth his Servants to difficulties, as if he this way deſign'd to approve <note place="margin">Invenitur, cui corona debe<g ref="char:EOLhyphen"/>tur: non in<g ref="char:EOLhyphen"/>venitur, qui idoneus cer<g ref="char:EOLhyphen"/>tamini non probatur. S. <hi>Ambroſ. Ex<g ref="char:EOLhyphen"/>poſ. in Pſ. 118 Serm.</hi> 18.</note> their fitneſs for the Crown he promiſeth. This will ſufficiently appear from the view of ſome few of thoſe particular evils, which are the Por<g ref="char:EOLhyphen"/>tion of Chriſtians, and from the Bondage of which, Death is the only reſcue.</p>
+            <p n="1">(1.) Death is the thing which delivers the Chriſtian from the burthen of his natural Cor<g ref="char:EOLhyphen"/>ruption: utterly puts an end to that, which keeps
+<pb n="48" facs="tcp:35961:32"/> him now almoſt perpetually reſtleſs and uneaſie. The ſenſe of much pollution, of a conſtant de<g ref="char:EOLhyphen"/>ficiency, which hath frequently too betray'd him into groſſer ſins, perplexeth the penitent and humble Soul, and fills him often with ter<g ref="char:EOLhyphen"/>rors and remorſe: till at length Death brings him an happy quiet, diſſolves his ſubſtance, and throughly purgeth out the inherent droſs, gives his Soul the purity of an Angelical Nature, and prepares a corruptible Body to be rais'd hereafter in incorruption.</p>
+            <p>Indeed pollution belongs to <hi>wicked</hi> Men in a degree vaſtly higher: However they have com<g ref="char:EOLhyphen"/>monly little ſenſe of this miſery. A kind of Lethargy renders them ſtupid under a weight which is ſinking them down into deſtruction: whilſt the Servant of God perceives the preſ<g ref="char:EOLhyphen"/>ſure of much leſs guilt, and bitterly complains of it.</p>
+            <p>His impurity and tranſgreſſions are the things which coſt him ſo many Sighs and Tears; theſe employ him in much Grief and Lamentation. <hi>There is no reſt in my bones, becauſe of my ſin. Mine</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 38. 3, 4.</note> 
+               <hi>iniquities are gone over my head: as a heavy burthen, they are too heavy for me,</hi> ſays the <hi>Pſalmiſt</hi> in his Repentance. And as the Prophet repreſents the condition of an humbled People, he cries
+<pb n="49" facs="tcp:35961:32"/> out ſaying: <hi>Wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto us that we have ſinned: for</hi> 
+               <note place="margin">
+                  <hi>Lam.</hi> 5. 16, 17.</note> 
+               <hi>this our heart is faint, for theſe things our eyes are dim.</hi>
+            </p>
+            <p n="2">(2.) Death is that which reſcues the Chriſtian from the conſtant importunity of temptations: 'Tis, as St. <hi>Cyprian</hi> calls it, his Peace, his only <note place="margin">De Mortalit. p. 157.</note> Peace and Tranquillity; his ſure, and firm, and perpetual Security.</p>
+            <p>Here we are as a City continually beſieged, expos'd every Minute to the Battery and Aſſaults of Enemies: yea, there is treachery alſo within the Walls, we are liable ſtill to the ſuddain Vio<g ref="char:EOLhyphen"/>lences of untractable Paſſions and Luſts, and the wickedneſs of a deceitful Heart. No wonder therefore that ſo many of the Goſpel-Precepts are deliver'd to us as to Soldiers and Comba<g ref="char:EOLhyphen"/>tants: by which we are commanded to all the difficulties of a Militant ſtate, <hi>to ſtand faſt, to watch, to ſtrive, to fight, to put on the whole Armour of God,</hi> and uſe it with all the Skill and Courage we are able.</p>
+            <p>O the ſweetneſs of Peace after the hurry, and uncertainties, and fatigue of War; after the hun<g ref="char:EOLhyphen"/>ger, and thirſt, and cold, the hazards, and ſome<g ref="char:EOLhyphen"/>times wounds of ſuch a ſtate for many Years! <hi>O wretched man that I am, Who ſhall deliver me?</hi>
+               <pb n="50" facs="tcp:35961:33"/> ſaid St. <hi>Paul</hi> under the ſenſe, as ſome think, of ſuch difficulties as theſe. The queſtion imply'd the greatneſs of the Bondage, and the proper anſwer to it ſeems to be this one word, <hi>Death.</hi>
+            </p>
+            <p n="3">(3.) Death is what delivers from the ſpiteful<g ref="char:EOLhyphen"/>neſs of this preſent World: from the oppoſition it maintains to Innocence and Holineſs. The Apoſtle recommending to the converted <hi>Jews</hi> the Example of our Lord, preſents him under the following Character, <hi>A ſufferer of the contradiction</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 12. 3.</note> 
+               <hi>of ſinners,</hi> a Perſon ſet out as the common mark of Contempt and Obloquy. And the Lot of the maſter belongs to the Diſciples: for ſo h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf expreſly told them: <hi>If ye were of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world, the world would love his own; but becauſe</hi> 
+               <note place="margin">
+                  <hi>John</hi> 15. 19.</note> 
+               <hi>ye are not of the world, therefore the world hateth you.</hi>
+            </p>
+            <p>Moſt of the ancient Apologiſts for Chriſtiani<g ref="char:EOLhyphen"/>ty obſerve, that tho' the Religion they defended, was of the meekeſt, moſt friendly, and obedient Temper, fitted, beyond all things that ever were, for the Peace and Advantage of Mankind: ye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it was the thing which the World was moſt en<g ref="char:EOLhyphen"/>rag'd againſt, and purſued with the greateſt Cru<g ref="char:EOLhyphen"/>elty: <q>All other People, ſaid one of them to the <note place="margin">Athenagor. Legat. pro Chriſtianiſ. p. 2.</note> 
+                  <hi>Emperours, Antoninus,</hi> and <hi>Commodus,</hi> enjoy and
+<pb n="51" facs="tcp:35961:33"/> admire your Clemency and Lenity; but we Chriſtians are thoſe alone, whom you are pleas'd to caſt out of Protection, and expoſe to Suf<g ref="char:EOLhyphen"/>ferings.</q>
+            </p>
+            <p>And tho' a miraculous Providence over the Church put an end at length to the Heathen Perſecutions of it; yet all its ſufferings of this kind will not be concluded, whilſt any of the Members of it are on this ſide the Grave: the World ſtill declares its malice againſt the fol<g ref="char:EOLhyphen"/>lowers of the Lamb, true Religion being often treated with ſcorn and gain-ſaying, and ſome<g ref="char:EOLhyphen"/>times worſe uſage by the Heretical and Hypo<g ref="char:EOLhyphen"/>critical, by the Atheiſts and Profane. And then,</p>
+            <p n="4">(4.) Death is that which delivers from the malice of the Devil, ſecures for ever from that envious Spirit, which if he deſpairs of the fi<g ref="char:EOLhyphen"/>nal overthrow of the Righteous: yet will not fail at leaſt to be active in contriving their pre<g ref="char:EOLhyphen"/>ſent miſery. Nothing is ſo grievous to him, as the Eaſe and Tranquillity of Mankind: and therefore when he is held from making a prey, he will yet run to the very end of the Chain to Plague and Torment.</p>
+            <pb n="52" facs="tcp:35961:34"/>
+            <p>
+               <hi>If thou come to ſerve the Lord,</hi> ſaid the Son of <hi>Sirach, prepare thy ſoul for temptation:</hi> temptation <note place="margin">
+                  <hi>Eccl.</hi> 2. 1.</note> ſeems to ſignifie there (as it does ſometimes in Scripture) a trial by Afflictions: and ſuch a one as this, he that comes unto God, muſt expect from the Enemy of Mankind, ſo far forth as the execution of his Malice is not reſtrain'd by the Hand of Omnipotence.</p>
+            <p>The moſt High, for reaſons of Wiſdom and Mercy, gave the Enjoyments of his Servant <hi>Job</hi> into the power of <hi>Satan:</hi> and ſo the next news we hear of that good Man is, that he is ſtrip<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all things, and become as a Leper on <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dunghil. The Dragon being caſt into the Earth, perſecuted the Woman, and made her fly into the Wilderneſs; and ſince he might not follow her, he ſent a Flood after out of his Mouth to drown her.</p>
+            <p>The Almighty indeed hath promis'd to defend his Choſen, to ſet an Hedge about them, and even a Guard of Angels to ſecure them from the power of the Devil. However the Protection we are thus aſſur'd of relates principally to Spiritual things: as for Temporal, we find Satan put in a Claim to them in his attempts againſt the Lord of Life, by whom too he was not directly contradicted; <hi>al<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe things,</hi> ſaid he, <hi>are delivered unto me.</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 4. 6.</note>
+            </p>
+            <pb n="53" facs="tcp:35961:34"/>
+            <p>Having thus particularly mention'd ſome of the evils which, being the Portion of the Chri<g ref="char:EOLhyphen"/>ſtian whilſt alive, he is only freed from in Death: I doubt not but you will eaſily grant this laſt ſtate to be for his Intereſt above the former. Happier, certainly happier, is his condition then, when all theſe Labours are at an end, all theſe Cares, and Fears, and Sorrows are done away; and, as one of the Fathers ſpeaks, no Tear at all darkens the Eyes of him, who now beholds the Beauty of the Glory of God. And yet theſe Negative Benefits are not all, or the chief part of what we are enabled to ſpeak of. For, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. S. Baſil. Homil. in Pſ. 114.</note>
+            </p>
+            <p n="2">2. I am alſo to put you in mind of the Ad<g ref="char:EOLhyphen"/>vantages of Death, with reſpect to the things it gives poſſeſſion of. But on this head, being not ſo ſuitable to what was the Preacher's deſign in the Text, I ſhall ſay but very little, and ſo paſs to the Application. <hi>Precious in the ſight of the Lord:</hi> ſaith the <hi>Pſalmiſt, is the death of his Saints;</hi> upon which place St. <hi>Baſil</hi> (ſome of whoſe words I but now mentioned) has this fol<g ref="char:EOLhyphen"/>lowing Comment. <q>Thoſe Stones amongſt the <note place="margin">Homil. in Pſal. 115.</note>
+                  <pb n="54" facs="tcp:35961:35"/> lovers of Riches are called <hi>Precious,</hi> which ſhin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with freſh and delightful Colours: How much more precious then is that thing, which adorns the Soul, being now purg'd from all its ſtains and ſpots, with a Luſter beyond that of all the Jewels or Precious Stones in the World</q> Indeed, Death is the thing which turns a poor impriſon'd Spirit, wearied with the confinement, and ſullied with the filthineſs of an Earthly Ta<g ref="char:EOLhyphen"/>bernacle, into a thing Bright as the Firmament and the Stars, yea glorious as the Sun it ſelf for ever and ever.</p>
+            <p>Imagine a little what the Happineſs muſt b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a Soul received into Heaven, with the Ap<g ref="char:EOLhyphen"/>plauſes of ten thouſand times ten thouſand An<g ref="char:EOLhyphen"/>gels and Saints; with the Embraces of an All<g ref="char:EOLhyphen"/>glorious Redeemer; and the <hi>Euge</hi> of the Great God. Think what the Joy muſt be of Seeing, and Praiſing, and Adoring, and Enjoying him that died for us; of ſounding out perpetual An<g ref="char:EOLhyphen"/>thems and Hallelujahs; of dwelling in Eternal Light, and beholding the Face of that God, in whoſe Preſence is fulneſs of Joy, and at whoſe right Hand there are Pleaſures for evermore. Think upon theſe, and ſuch things as theſe, which Death gives the Chriſtian poſſeſſion of, and then certainly in reſpect of ſuch Perſons, you will be
+<pb n="55" facs="tcp:35961:35"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady to joyn with the Preacher, <hi>and praiſe the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead, which are already dead, more than the living, which are yet alive.</hi>
+            </p>
+            <p>And yet after we have thus fill'd our Minds with the moſt Glorious Idea's, and form'd a No<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the higheſt Happineſs which can be ima<g ref="char:EOLhyphen"/>gined, we ſtill know but in part, and ſee through <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Glaſs darkly. We cannot poſſibly reach the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings we aim at, or have any juſt conception of thoſe ineffable Pleaſures. <hi>As it doth not yet <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppear what we ſhall be; ſo Eye hath not ſeen, nor Ear heard, neither hath it enter'd into the Heart of Man to conceive the things which God hath prepar'd <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or them that love him.</hi>
+            </p>
+            <p>The preference which <hi>Solomon</hi> gives <hi>the dead</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore <hi>the living,</hi> being to be allow'd; that which <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have farther to do, Brethren, is, to perſwade <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou to a Practical as well as a Speculative belief of this, ſo to behave your ſelves, and to act up<g ref="char:EOLhyphen"/>on all occaſions, as if you were in good earneſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onvinc'd of it. Particularly to manifeſt the Faith of thoſe Advantages the true Chriſtian <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inds in Death beyond thoſe of Life (for that is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſenſe I ſhall chiefly have regard to now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Application) in the three following In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tances.</p>
+            <list>
+               <pb n="56" facs="tcp:35961:36"/>
+               <item>1. A contempt of this preſent Condition.</item>
+               <item>2. A comfortable expectation of a Diſ<g ref="char:EOLhyphen"/>charge from it.</item>
+               <item>3. Contentment, on the Departure of our Chriſtian Friends.</item>
+            </list>
+            <p n="1">1. A contempt of this preſent Life. We have great reaſon you ſee to think very meanly of it, ſince its Excellencies, which tempt and allure us, and that we are apt ſo paſſionately to court, cannot vie with the Grave. We have had a deſcription of ſome of the troubles this ſtate brings upon us, both as Men and as Chriſti<g ref="char:EOLhyphen"/>ans. And conſider I pray you now a little, whe<g ref="char:EOLhyphen"/>ther any thing mixt with Ingredients of ſo much bitterneſs, can indeed pleaſe our Taſte, or draw our Affection?</p>
+            <p>Was ever the Priſoner in love with his Dun<g ref="char:EOLhyphen"/>geon, or the Gally-ſlave with his Chain? Can Men long for Affliction, or deſire to make Tears their Meat? No ſure, one would think ſuch things ſhould not raiſe our Appetites, or become very Inviting. And can we then, Chriſtians, doat upon our preſent Condition, be ſo hugely ſoli<g ref="char:EOLhyphen"/>citous, ſo full of Endeavour to prolong our Tor<g ref="char:EOLhyphen"/>ment, and continue yet a little while more in
+<pb n="57" facs="tcp:35961:36"/> that Life which is our Miſery? Take the Wings of Meditation, and with the Dove, ſent out of the Ark, fly through this Tempeſtuous World: See whether there be any Hillock to reſt upon, any Spot which the Deluge hath not covered. Obſerve how all things are overflown with Cares, what a ſtrange maze of Uncertain<g ref="char:EOLhyphen"/>ties and Diſappointments we always walk in: how deceitful all Earthly Pleaſures are, like the Apples growing on the Banks of the Lake of <hi>Sodom,</hi> only well-coloured Aſhes. Think thus on the condition of things here below, and then tell me whether this be a ſtate to be deſir'd? Whether here it is that we ſhould be willing to ſet up our reſt?</p>
+            <p>
+               <hi>Cicero</hi> brings in the wiſe <hi>Cato,</hi> being now near his end, looking back on the Years he had liv'd, and thus declaring his Opinion of them. <q>If <note place="margin">Cato Major, ſive de Se<g ref="char:EOLhyphen"/>nectute, ſub finem.</note> the God above ſhould make an offer to me to grow young again, and to be once more an Infant, I would with all earneſtneſs refuſe it. I would by no means be ſet back to the begin<g ref="char:EOLhyphen"/>ning of the Race I have run, and live the Years that are paſt over again. For what has this Life of Benefit? What has it not of La<g ref="char:EOLhyphen"/>bour, <hi>&amp;c.</hi>
+               </q> Could a Heathen be thus ſenſible of the troubles of living, how much more muſt
+<pb n="58" facs="tcp:35961:37"/> the true Chriſtian? He whoſe Life hath not on<g ref="char:EOLhyphen"/>ly been expos'd to the common Lot of Humani<g ref="char:EOLhyphen"/>ty; but to the Labours, the Difficulties, the Watchings, the Faſtings, the Strivings, the Con<g ref="char:EOLhyphen"/>flicts, the Groans, the Tears of a Condition of Temptations, of a Self-denying Religion.</p>
+            <p>If, according to the ſaying of an ancient Fa<g ref="char:EOLhyphen"/>ther, it be allowable for that Perſon to be de<g ref="char:EOLhyphen"/>ſirous of Life, whom the World fawns <note place="margin">Ejus eſt in mundo diu vel<g ref="char:EOLhyphen"/>le remanere, quem mundus oblectat, quem ſeculum blan<g ref="char:EOLhyphen"/>diens atque decipiens ille<g ref="char:EOLhyphen"/>cebris terrenae voluptatis in<g ref="char:EOLhyphen"/>vitat. <hi>S. Cypri<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, de Mor<g ref="char:EOLhyphen"/>talit. p.</hi> 165.</note> upon, whom a flattering and deceit<g ref="char:EOLhyphen"/>ful Age allures with the Baits of Earthly Pleaſures, yet certainly the labouring, the panting Chriſtian is un<g ref="char:EOLhyphen"/>der no ſuch Temptation. A Perſon in his Cir<g ref="char:EOLhyphen"/>cumſtances, one would think, ſhould be ſo far from being in love with this mortal Condition, that did he not know it to be his Duty not to deliver up this Fort of his Body, which the Great King hath entruſted him with, till a Sum<g ref="char:EOLhyphen"/>mons comes from him, he would earneſtly deſire to be rid of it as ſoon as may be. Had he not learnt with S. <hi>Paul</hi> in every ſtate to be con<g ref="char:EOLhyphen"/>tent, he would be even impatient in that requeſt of his, to depart hence, and to be with Chriſt, which is far better.</p>
+            <p n="2">
+               <pb n="59" facs="tcp:35961:37"/>2. The next thing I am to perſwade you to, from the Conſideration of the Advantages of Death above Life, is, a comfortable expectation of a Diſcharge from it. To put off thoſe Fears of an approaching Diſſolution, which are apt to diſquiet us, and to meet it with evenneſs of Tem<g ref="char:EOLhyphen"/>per, and a holy Chearfulneſs.</p>
+            <p>The Preacher's declaration being indeed not to be appli'd to ſome, but only with the ſad Exceptions and Limitations already noted; I cannot direct what I now ſay to every one: Yea, I do adviſe you, my Brethren, not to be overhaſty in arrogating to your ſelves Comforts of ſuch a nature as this is. Strong aſſurances of Infinite Happineſs in another World are the re<g ref="char:EOLhyphen"/>wards of ſtrong Chriſtians, and to obtain them, meddle not with the unſearchable Decrees of God Almighty; but enquire into your Lives paſt, and try whether you can find there that you are the Perſons to whom the Promiſes are made. He alone hath ground for ſuch a Comfortable de<g ref="char:EOLhyphen"/>pendance, whoſe Conſcience witneſſeth to the Truth of this, that his Faith hath been active, that he hath endeavour'd, and doth ſtill, with all his power, to be void of offence towards God, and towards Man.</p>
+            <pb n="60" facs="tcp:35961:38"/>
+            <p>And now to you, all you that are thus Chri<g ref="char:EOLhyphen"/>ſtians not in name or profeſſion alone, but in deed and in truth: To you I ſay, be not diſcouraged when Death ſhall begin to look you in the Face; to uſe our Saviour's words which he ſpake on a different occaſion, <hi>look up, and lift up your heads,</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 22. 28.</note> 
+               <hi>for your redemption draweth nigh.</hi>
+            </p>
+            <p>
+               <hi>Socrates,</hi> who tho' a Heathen, ſuffer'd for a great Article of our Faith; and whom therefore <hi>Juſtin Martyr</hi> doubts not to call in part a Chri<g ref="char:EOLhyphen"/>ſtian, <note place="margin">Juſt. Mart. Apol. 1. pag. 48. it. Apol. 2. p. 83. Edit. nuperae Colon.</note> is ſaid to have refreſh'd himſelf with ſuch Meditations as theſe which follow, between his Condemnation and Execution. <q>I would have you believe, ſaid he to his Friends, that I hope to go to thoſe good Men already departed. However, tho' this be not poſitively aſſerted by <note place="margin">In Phaedone, p. 377.</note> me, yet that I am haſtning to that Divine Be<g ref="char:EOLhyphen"/>ing, who is the beſt Maſter in the World, is what I moſt ſtedfaſtly affirm. And hereupon it is that I am not afraid of Death, as otherwiſe I ſhould be; but am prepar'd to meet it with a cheerful mind. And <hi>Cato,</hi> before-mention'd, cry'd out, ſaying, O the happy day when I ſhall be admitted to the Aſſembly of departed Souls, being freed from the preſent hurry and corruption.</q>
+            </p>
+            <pb n="61" facs="tcp:35961:38"/>
+            <p>To ſuch a greatneſs of Mind have ſome few been rais<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by the dark and uncertain ſpeculati<g ref="char:EOLhyphen"/>ons of natural Reaſon; but the Triumphs of Chriſtianity have been much beyond it, in an<g ref="char:EOLhyphen"/>ſwer to its greater Light, and Encouragements. S. <hi>Ignatius,</hi> as he was carried in Fetters to be Meat <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epiſt. ad E<g ref="char:EOLhyphen"/>pheſios.</note> for wild Beaſts at <hi>Rome,</hi> call'd the Bonds they put on him Chains of Pearl. And S. <hi>Cyprian,</hi> ex<g ref="char:EOLhyphen"/>horting thoſe under his Epiſcopal Care (in that Tract I have ſo often made uſe of) to a reſolu<g ref="char:EOLhyphen"/>tion <note place="margin">De Mortalit. p. 161.</note> becoming them, whilſt the Peſtilence raged amongſt them; reckons up the fatal Symptoms of that ſtrange Diſeaſe, and tells them they were deſign'd to manifeſt the Excellency of their Faith, to diſcover to the World a Conſtancy unſhaken amidſt thoſe Ruines of Mankind. Indeed this was almoſt the ordinary Spirit or Temper of the Primitive and perſecuted Church, tho'. Time, and Eaſe, and a prevailing Impiety have render'd it now in too great a meaſure degenerate and fearful. Chriſtians then were not diſcompos'd on the ap<g ref="char:EOLhyphen"/>prehenſions of Death, when in deſpite of the greateſt oppoſition, they made it their only buſi<g ref="char:EOLhyphen"/>neſs to fit and prepare for it. But,</p>
+            <p n="3">3. The laſt thing I am to recommend to you from what hath been now conſider'd, is, <hi>content<g ref="char:EOLhyphen"/>ment
+<pb n="62" facs="tcp:35961:39"/> on the departure of our Chriſtian Friends.</hi> If they better their Condition, let us not be impati<g ref="char:EOLhyphen"/>ent at it: let us not mourn and lament becauſe of their happy Change from Miſery and Trouble to Freedom and Glory.</p>
+            <p>Something indeed is to be allow'd to the ſenſe of our own loſs, and the tendency of our imper<g ref="char:EOLhyphen"/>fect deſires; but to be immoderate on ſuch oc<g ref="char:EOLhyphen"/>caſions is our grief, is to contradict our own Faith, and to make our ſelves like thoſe unac<g ref="char:EOLhyphen"/>countable Worſhippers, whom <hi>Plutarch</hi> menti<g ref="char:EOLhyphen"/>ons, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Quaeſt. Ro<g ref="char:EOLhyphen"/>man. Tom. 2. p. 277.</note> who, as they pray'd to their Deity, beſtow'd a good name upon the Dead, but withall, de<g ref="char:EOLhyphen"/>ſir'd that they might have none of them in their Houſes. <hi>I would not have you ignorant,</hi> ſaith the Apoſtle, <hi>concerning them that are aſleep; that you</hi> 
+               <note place="margin">1. <hi>Theſ.</hi> 4. 13.</note> 
+               <hi>ſorrow not as others who have no hope.</hi> An extra<g ref="char:EOLhyphen"/>vagant ſorrow might be reconcilable to the Opi<g ref="char:EOLhyphen"/>nions of ſome ignorant Heathen; but are a per<g ref="char:EOLhyphen"/>fect contradiction to the knowledge and hope of a Chriſtian.</p>
+            <p>Accordingly the Office of Burial in our Church (in conformity to the Cuſtoms of the Primitive) contains not Lamentations; but is a kind of holy Triumph, a publick declaration of Joy and Thankfulneſs for the Bleſſedneſs of the Dead.</p>
+            <pb n="63" facs="tcp:35961:39"/>
+            <p>When we join'd in it but now at the Inter<g ref="char:EOLhyphen"/>ment of our departed Brother, we did in effect ſay ſuch words as theſe: Now the time, the hap<g ref="char:EOLhyphen"/>py time of Releaſe is come, when a Chriſtian ex<g ref="char:EOLhyphen"/>pos'd to Griefs and Sorrows, Wearineſs and Temp<g ref="char:EOLhyphen"/>tations, enjoys his everlaſting Freedom. At length he is deliver'd from all the hurry and noiſe of a troubleſome World, from all the ſtrivings, and buſtle, and contentions of it: particularly in the preſent caſe, from that part which it was the good Pleaſure of Providence he ſhould act, from that Office of Magiſtracy, which, I doubt not, he very unwillingly engaged in, and which he con<g ref="char:EOLhyphen"/>ſider'd as his burthen and unhappineſs. He is taken away from all the evil to come, from all uncertainties of event, from all fears and fatal iſſues of things. To conclude, his Prayers are heard, his cry is come up into the Ears of the Lord of Hoſts; all his Cares and Pains are at an end, and he hath found, as our hope is, Peace, Quiet, and Eternal Reſt.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
